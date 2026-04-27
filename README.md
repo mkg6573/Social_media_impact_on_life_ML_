@@ -1,76 +1,35 @@
+## 📌 Overview
 
+- This dataset analyzes the impact of social media and AI usage on students' daily lives.  
 
-## 📌 Dataset Overview
-This dataset contains information about students and their usage of AI and digital platforms. It includes key demographic and behavioral attributes such as:
+- It contains detailed information about students’:
+  - Demographics  
+  - Usage behavior  
+  - Lifestyle patterns  
 
-- Age  
-- Gender  
-- Academic Level  
-- Daily Usage Hours  
-- Most Used Platform  
+- Key features included in the dataset:
+  - Age  
+  - Gender  
+  - Academic Level  
+  - Daily Usage Hours  
+  - Most Frequently Used Digital Platforms  
 
-The dataset is designed to help analyze how AI and digital platform usage impacts students’ lives.
+- It also captures important aspects of student well-being:
+  - Academic Performance  
+  - Sleep Patterns  
+  - Mental Health  
 
----
+- The dataset aims to:
+  - Explore the effects of AI and social media usage  
+  - Understand both positive and negative impacts  
+  - Provide an overall impact indicator (beneficial or harmful)  
 
-## 🎯 Objectives
-The primary goal of this dataset is to study the effect of AI usage on:
+- Suitable for:
+  - Exploratory Data Analysis (EDA)  
+  - Data Visualization  
+  - Machine Learning Model Building  
 
-- 📚 Academic Performance  
-- 😴 Sleep Patterns  
-- 🧠 Mental Health  
-
-It also includes an **overall impact indicator** to determine whether AI usage is beneficial or harmful.
-
----
-
-## 📁 Dataset Features
-| Feature Name        | Description |
-|--------------------|------------|
-| Age                | Student's age |
-| Gender             | Gender of the student |
-| Academic Level     | School / College / University |
-| Daily Usage Hours  | Time spent on AI platforms per day |
-| Most Used Platform | Platform frequently used (e.g., ChatGPT, etc.) |
-| Academic Performance | Performance level of the student |
-| Sleep Patterns     | Sleep duration or quality |
-| Mental Health      | Mental well-being indicator |
-| Overall Impact     | Positive / Negative effect of AI usage |
-
----
-
-## 🔍 Use Cases
-This dataset can be used for:
-
-- 📊 Exploratory Data Analysis (EDA)  
-- 📈 Data Visualization  
-- 🤖 Machine Learning Model Building  
-- 📉 Impact Analysis of Technology on Students  
-
----
-
-## 🚀 Possible Projects
-- Predict academic performance based on AI usage  
-- Analyze correlation between screen time and sleep  
-- Study mental health trends with digital exposure  
-- Build classification models for impact prediction  
-
----
-
-## 🛠️ Tools & Technologies
-You can use:
-
-- Python (Pandas, NumPy)  
-- Matplotlib / Seaborn / Plotly  
-- Scikit-learn  
-- Streamlit (for dashboard)  
-
----
-
-## 📌 Conclusion
-This dataset provides valuable insights into how AI and digital platforms influence student life. It can help researchers, students, and developers understand both the **positive and negative impacts of technology**.
-
----
-
-## ⭐ Support
-If you find this dataset useful, consider giving a ⭐ to the repository!
+- Helps in:
+  - Identifying patterns and trends  
+  - Building predictive models  
+  - Understanding the role of technology in student life  
