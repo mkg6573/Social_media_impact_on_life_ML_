@@ -51,7 +51,7 @@ The analysis included:
 - Detecting outliers
 - Identifying the target variable for classification
 
-The target column in this dataset is:
+The target column in this dataset is:-
 
 - `Overall_Impact`
 
