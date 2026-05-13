@@ -1,0 +1,1706 @@
+Age,Gender,Academic_Level,Avg_Daily_Usage_Hours,Most_Used_Platform,Affects_Academic_Performance,Sleep_Hours_Per_Night,Mental_Health_Score,Overall_Impact
+21,Male,Undergraduate,4.0,Facebook,No,6.7,6.8,Neutral
+23,Female,Undergraduate,1.6,LinkedIn,No,8.6,7.6,Positive
+22,Male,Graduate,4.6,Instagram,No,6.7,7.0,Neutral
+18,Male,Undergraduate,7.0,Snapchat,Yes,5.4,5.3,Negative
+24,Female,High School,7.5,Facebook,Yes,5.0,4.4,Negative
+19,Female,High School,4.1,Twitter,Yes,6.8,6.8,Neutral
+22,Female,Graduate,8.0,Instagram,Yes,5.2,5.3,Negative
+21,Female,Graduate,6.0,Facebook,Yes,5.7,4.7,Negative
+24,Male,Undergraduate,4.7,YouTube,No,7.0,6.2,Neutral
+19,Male,High School,3.6,TikTok,No,8.1,8.6,Positive
+18,Male,Graduate,4.1,LinkedIn,No,7.3,6.8,Neutral
+18,Male,High School,7.6,Snapchat,Yes,5.3,5.5,Negative
+20,Male,Undergraduate,2.4,Facebook,No,8.8,8.5,Positive
+23,Female,Undergraduate,6.2,LinkedIn,No,5.3,5.4,Negative
+24,Male,Graduate,2.7,Instagram,No,8.6,7.8,Positive
+18,Female,Graduate,5.2,Twitter,Yes,7.0,6.3,Neutral
+22,Female,Graduate,6.5,YouTube,Yes,5.4,5.0,Negative
+21,Male,High School,6.8,YouTube,Yes,5.7,5.0,Negative
+21,Male,Graduate,6.9,Facebook,Yes,5.9,5.0,Negative
+20,Male,Undergraduate,5.5,Instagram,No,6.8,6.8,Neutral
+23,Female,High School,2.0,Facebook,No,7.9,7.1,Positive
+19,Female,Undergraduate,5.1,Snapchat,Yes,7.1,6.5,Neutral
+24,Male,Undergraduate,2.0,Facebook,Yes,7.8,8.5,Positive
+23,Male,Undergraduate,2.0,TikTok,No,7.2,8.6,Positive
+23,Female,Graduate,7.1,LinkedIn,Yes,5.4,5.1,Negative
+21,Male,Undergraduate,6.2,Instagram,Yes,4.7,5.7,Negative
+20,Female,Undergraduate,2.8,LinkedIn,No,8.3,8.2,Positive
+21,Female,High School,7.4,TikTok,Yes,4.6,4.7,Negative
+20,Female,Graduate,5.6,TikTok,Yes,5.7,5.1,Negative
+23,Female,Undergraduate,2.7,YouTube,No,7.8,7.7,Positive
+20,Male,High School,7.3,YouTube,No,6.0,5.7,Negative
+24,Male,Graduate,2.3,Snapchat,No,8.2,8.1,Positive
+19,Male,High School,5.6,LinkedIn,No,6.9,6.6,Neutral
+22,Female,Graduate,7.5,Facebook,Yes,5.2,4.0,Negative
+24,Male,High School,5.9,TikTok,No,5.9,4.9,Negative
+18,Male,Undergraduate,6.8,Instagram,Yes,5.5,4.2,Negative
+23,Male,High School,6.7,Snapchat,Yes,5.5,5.0,Negative
+22,Male,Graduate,4.5,Instagram,No,6.1,6.6,Neutral
+22,Male,Graduate,5.7,LinkedIn,Yes,6.8,6.3,Neutral
+19,Female,Undergraduate,2.3,Facebook,No,8.0,8.5,Positive
+24,Male,Undergraduate,8.3,Twitter,Yes,5.5,4.3,Negative
+21,Female,Undergraduate,6.5,Twitter,Yes,5.7,4.2,Negative
+22,Female,Graduate,6.9,Twitter,Yes,5.3,4.5,Negative
+20,Male,Undergraduate,8.1,TikTok,No,4.5,5.7,Negative
+20,Female,High School,7.2,Instagram,No,4.8,4.2,Negative
+20,Male,Graduate,4.1,Twitter,Yes,6.6,6.7,Neutral
+18,Male,Graduate,7.2,LinkedIn,Yes,4.5,5.9,Negative
+19,Female,High School,5.2,Twitter,No,7.5,6.4,Neutral
+20,Male,High School,7.4,Instagram,Yes,5.2,5.0,Negative
+21,Male,High School,3.6,Instagram,No,7.1,8.5,Positive
+22,Female,High School,8.0,YouTube,Yes,5.4,4.7,Negative
+19,Female,Undergraduate,7.9,Twitter,No,5.0,4.9,Negative
+21,Female,Undergraduate,6.8,YouTube,Yes,5.3,4.6,Negative
+22,Male,High School,7.3,Twitter,Yes,5.5,4.7,Negative
+21,Male,Undergraduate,3.4,LinkedIn,No,8.6,8.8,Positive
+21,Female,Graduate,4.4,LinkedIn,Yes,6.4,6.6,Neutral
+22,Male,Graduate,5.9,Twitter,No,4.7,5.4,Negative
+23,Male,Graduate,6.0,TikTok,No,4.8,5.5,Negative
+24,Female,High School,3.0,TikTok,No,8.1,8.0,Positive
+19,Male,High School,2.7,Instagram,No,8.5,7.6,Positive
+24,Male,Undergraduate,1.7,Instagram,No,7.7,8.7,Positive
+22,Female,Graduate,6.2,YouTube,Yes,5.3,5.5,Negative
+21,Male,Undergraduate,1.8,TikTok,No,7.9,8.1,Positive
+24,Female,High School,7.1,Twitter,Yes,5.2,4.8,Negative
+20,Female,High School,6.5,Snapchat,Yes,5.7,4.1,Negative
+22,Male,High School,7.6,Snapchat,Yes,5.9,6.0,Negative
+19,Female,High School,4.9,LinkedIn,No,6.8,6.6,Neutral
+24,Female,High School,8.2,Instagram,No,5.3,4.4,Negative
+21,Male,Undergraduate,5.2,Snapchat,Yes,6.4,6.1,Neutral
+19,Female,Graduate,2.9,Instagram,No,7.9,7.7,Positive
+23,Female,High School,4.4,YouTube,No,7.3,6.2,Neutral
+20,Female,Undergraduate,4.0,Snapchat,No,7.5,7.2,Positive
+23,Male,High School,6.4,TikTok,Yes,5.2,4.6,Negative
+22,Male,Undergraduate,8.2,Facebook,Yes,4.6,4.1,Negative
+22,Male,Undergraduate,5.1,Twitter,No,6.5,6.9,Neutral
+19,Male,Graduate,2.5,YouTube,No,7.6,8.4,Positive
+22,Male,High School,6.5,Facebook,No,5.8,5.5,Negative
+24,Female,Graduate,7.5,YouTube,Yes,4.7,5.3,Negative
+24,Male,Graduate,3.2,LinkedIn,No,7.1,8.6,Positive
+23,Male,Undergraduate,7.3,Facebook,Yes,5.7,5.3,Negative
+18,Female,High School,5.7,Instagram,No,5.1,4.9,Negative
+23,Female,Undergraduate,4.7,Instagram,Yes,6.1,6.6,Neutral
+22,Male,Graduate,5.9,Twitter,No,6.0,7.0,Neutral
+18,Male,High School,7.4,YouTube,Yes,5.0,4.7,Negative
+18,Male,Undergraduate,8.4,TikTok,Yes,5.9,5.3,Negative
+19,Male,Undergraduate,8.1,Instagram,Yes,4.8,4.1,Negative
+22,Female,Undergraduate,3.6,LinkedIn,No,8.6,8.6,Positive
+20,Male,High School,5.8,Twitter,Yes,5.6,5.5,Negative
+21,Female,Undergraduate,8.0,Snapchat,Yes,5.8,5.1,Negative
+23,Male,High School,5.7,Snapchat,No,5.9,5.2,Negative
+18,Male,Undergraduate,8.0,TikTok,No,4.6,5.8,Negative
+23,Male,Undergraduate,3.7,Instagram,No,8.4,7.2,Positive
+20,Male,Undergraduate,3.4,Facebook,Yes,8.6,8.7,Positive
+23,Female,Graduate,3.3,Facebook,Yes,8.6,8.3,Positive
+18,Female,Undergraduate,3.1,Snapchat,No,7.8,7.5,Positive
+21,Male,Graduate,8.2,LinkedIn,Yes,6.0,5.4,Negative
+20,Male,Graduate,4.1,LinkedIn,No,7.2,6.8,Neutral
+18,Female,High School,3.5,TikTok,No,7.0,6.5,Neutral
+21,Male,High School,5.9,Facebook,No,6.0,6.7,Neutral
+22,Male,High School,5.6,YouTube,Yes,5.6,5.7,Negative
+22,Male,Graduate,3.8,YouTube,No,7.5,7.9,Positive
+20,Male,Undergraduate,3.8,Facebook,No,7.6,8.7,Positive
+21,Female,Graduate,5.8,Facebook,Yes,5.8,4.9,Negative
+18,Male,Undergraduate,3.7,Snapchat,Yes,7.5,7.0,Positive
+20,Female,High School,2.9,LinkedIn,No,8.3,8.4,Positive
+21,Male,High School,4.5,LinkedIn,Yes,7.5,7.0,Neutral
+21,Male,High School,3.8,Snapchat,Yes,7.2,6.1,Neutral
+20,Male,Undergraduate,2.9,Twitter,No,8.2,7.6,Positive
+23,Male,Undergraduate,5.0,Twitter,No,6.7,6.8,Neutral
+21,Male,Undergraduate,6.5,Instagram,Yes,5.6,4.3,Negative
+22,Female,High School,3.6,Instagram,Yes,7.1,6.0,Neutral
+18,Male,Graduate,6.9,LinkedIn,Yes,5.9,4.9,Negative
+23,Female,Graduate,2.3,TikTok,No,8.3,8.8,Positive
+19,Male,Undergraduate,2.6,Snapchat,No,7.8,8.8,Positive
+22,Male,Graduate,6.2,Instagram,Yes,4.8,5.9,Negative
+24,Female,Graduate,3.8,Instagram,No,7.3,6.5,Neutral
+20,Female,Graduate,7.5,Instagram,Yes,4.7,4.6,Negative
+20,Male,Graduate,3.8,Instagram,No,8.2,7.8,Positive
+21,Female,Undergraduate,8.4,TikTok,No,5.3,5.9,Negative
+24,Female,Undergraduate,5.9,Twitter,Yes,4.9,4.1,Negative
+22,Male,High School,6.0,YouTube,Yes,6.8,6.9,Neutral
+23,Male,Undergraduate,3.5,TikTok,Yes,8.5,7.3,Positive
+21,Male,Undergraduate,3.1,LinkedIn,No,8.5,8.5,Positive
+19,Female,Undergraduate,4.5,Instagram,Yes,6.1,6.6,Neutral
+21,Female,Graduate,5.6,Instagram,Yes,5.4,5.1,Negative
+21,Female,Undergraduate,3.6,Facebook,No,7.2,9.0,Positive
+18,Male,Undergraduate,7.3,LinkedIn,No,5.3,4.0,Negative
+21,Female,High School,8.3,YouTube,Yes,5.1,4.2,Negative
+20,Female,High School,5.1,LinkedIn,No,6.3,6.1,Neutral
+24,Female,Undergraduate,3.4,YouTube,No,8.0,7.5,Positive
+22,Female,High School,8.0,Instagram,Yes,4.9,4.0,Negative
+18,Male,High School,3.7,LinkedIn,Yes,6.9,6.9,Neutral
+18,Female,Graduate,3.3,Instagram,No,8.3,8.5,Positive
+21,Male,High School,5.3,Twitter,Yes,7.3,6.7,Neutral
+23,Female,High School,3.8,Instagram,No,7.4,7.1,Positive
+24,Male,High School,3.7,Instagram,No,7.4,8.7,Positive
+22,Female,High School,1.9,Twitter,No,9.0,8.6,Positive
+21,Female,Undergraduate,4.4,Facebook,Yes,6.5,6.5,Neutral
+18,Female,Graduate,4.0,LinkedIn,No,6.9,6.1,Neutral
+20,Male,Undergraduate,5.6,YouTube,Yes,5.3,5.4,Negative
+22,Female,High School,3.2,YouTube,No,8.3,7.5,Positive
+21,Female,Undergraduate,6.1,Snapchat,Yes,4.5,4.1,Negative
+18,Female,Graduate,5.3,TikTok,Yes,7.1,6.4,Neutral
+18,Female,Undergraduate,5.6,LinkedIn,Yes,5.9,5.2,Negative
+24,Male,Undergraduate,6.3,TikTok,Yes,5.5,5.6,Negative
+23,Female,High School,5.8,Snapchat,No,6.9,6.1,Neutral
+23,Male,Undergraduate,2.8,Twitter,Yes,7.7,8.1,Positive
+18,Female,Undergraduate,6.5,YouTube,No,5.6,4.3,Negative
+23,Female,Undergraduate,4.6,Snapchat,Yes,6.9,6.6,Neutral
+18,Female,Undergraduate,7.0,TikTok,No,4.9,5.4,Negative
+18,Male,Undergraduate,1.8,Twitter,No,8.0,8.0,Positive
+18,Male,High School,3.7,Instagram,No,6.3,6.5,Neutral
+18,Male,Graduate,7.9,TikTok,Yes,5.9,4.7,Negative
+22,Male,Undergraduate,4.6,Snapchat,Yes,6.6,6.9,Neutral
+20,Female,Undergraduate,8.2,Twitter,Yes,5.8,4.6,Negative
+21,Female,Undergraduate,8.4,TikTok,No,5.9,5.0,Negative
+22,Female,Undergraduate,3.7,TikTok,Yes,7.1,6.7,Neutral
+23,Female,Graduate,7.3,TikTok,Yes,5.5,5.7,Negative
+24,Female,Undergraduate,2.9,Twitter,Yes,7.7,8.1,Positive
+18,Male,Undergraduate,1.8,Twitter,No,8.9,8.6,Positive
+23,Female,Undergraduate,6.3,Snapchat,Yes,5.7,5.9,Negative
+19,Male,Undergraduate,3.4,YouTube,No,8.6,7.6,Positive
+24,Male,High School,5.7,Facebook,Yes,6.8,6.6,Neutral
+24,Female,Graduate,3.8,Facebook,No,7.4,6.3,Neutral
+21,Male,High School,3.6,TikTok,No,7.4,7.8,Positive
+18,Female,Graduate,6.5,Facebook,No,4.7,4.8,Negative
+24,Female,Undergraduate,7.8,YouTube,Yes,5.4,5.6,Negative
+22,Male,Graduate,3.7,TikTok,No,7.1,7.5,Positive
+18,Male,High School,3.7,LinkedIn,Yes,6.7,6.2,Neutral
+19,Male,Undergraduate,5.7,Facebook,Yes,7.2,6.2,Neutral
+18,Female,Undergraduate,3.3,Facebook,No,8.0,8.8,Positive
+21,Female,Undergraduate,3.3,Facebook,No,8.2,8.6,Positive
+20,Male,Undergraduate,1.8,Snapchat,No,8.5,7.5,Positive
+23,Female,Graduate,5.4,Snapchat,Yes,7.1,6.5,Neutral
+20,Female,High School,5.9,YouTube,Yes,4.9,5.1,Negative
+20,Male,High School,3.3,LinkedIn,No,8.8,7.9,Positive
+24,Male,Undergraduate,7.2,Snapchat,Yes,4.7,5.4,Negative
+18,Male,Graduate,1.6,Snapchat,No,8.1,8.6,Positive
+24,Female,High School,3.4,YouTube,No,8.2,8.2,Positive
+22,Female,Undergraduate,2.6,Twitter,No,7.5,8.5,Positive
+20,Female,Undergraduate,5.1,Twitter,Yes,6.5,6.9,Neutral
+23,Female,Undergraduate,5.8,Instagram,No,6.2,6.2,Neutral
+19,Male,Undergraduate,4.3,Instagram,Yes,6.7,6.3,Neutral
+20,Female,Undergraduate,2.5,TikTok,Yes,7.7,8.5,Positive
+22,Female,Graduate,5.8,YouTube,Yes,6.0,4.7,Negative
+20,Male,High School,2.5,LinkedIn,No,7.4,8.2,Positive
+19,Female,Graduate,6.4,TikTok,Yes,5.5,4.4,Negative
+20,Male,Undergraduate,7.8,Twitter,Yes,5.2,5.2,Negative
+20,Male,Graduate,6.5,Twitter,Yes,4.5,4.2,Negative
+22,Female,Graduate,3.0,YouTube,Yes,8.9,7.1,Positive
+24,Female,Undergraduate,1.5,Facebook,Yes,7.2,7.6,Positive
+19,Female,Undergraduate,8.1,TikTok,Yes,5.6,5.5,Negative
+21,Female,High School,2.6,Snapchat,Yes,7.4,7.4,Positive
+18,Male,High School,2.7,Snapchat,No,8.5,7.6,Positive
+23,Female,Undergraduate,2.4,Snapchat,Yes,7.6,7.6,Positive
+23,Female,High School,6.6,TikTok,Yes,6.0,5.0,Negative
+22,Male,Undergraduate,3.8,YouTube,No,7.9,7.3,Positive
+21,Female,Graduate,5.8,LinkedIn,No,7.0,6.4,Neutral
+20,Male,Undergraduate,8.2,LinkedIn,Yes,6.0,5.7,Negative
+22,Male,High School,4.5,Facebook,Yes,6.0,6.3,Neutral
+18,Female,Graduate,5.6,Twitter,Yes,4.8,5.9,Negative
+20,Male,High School,3.5,TikTok,No,7.9,7.8,Positive
+23,Female,Graduate,2.9,YouTube,Yes,7.3,8.5,Positive
+19,Male,Undergraduate,6.6,TikTok,Yes,5.9,5.0,Negative
+24,Male,Undergraduate,8.0,Twitter,Yes,5.1,5.3,Negative
+18,Male,Undergraduate,7.3,LinkedIn,Yes,5.1,4.1,Negative
+19,Female,High School,2.5,Twitter,No,7.3,8.3,Positive
+19,Male,Graduate,2.6,TikTok,No,8.4,8.2,Positive
+24,Male,Graduate,2.3,Twitter,No,8.3,8.9,Positive
+21,Male,Undergraduate,5.3,Twitter,Yes,7.3,6.1,Neutral
+19,Female,High School,7.7,Snapchat,Yes,5.7,5.3,Negative
+19,Female,High School,4.6,Snapchat,No,6.2,6.2,Neutral
+21,Male,Graduate,5.9,YouTube,No,7.1,6.4,Neutral
+18,Male,High School,7.5,LinkedIn,Yes,5.0,5.4,Negative
+18,Male,Graduate,6.3,LinkedIn,Yes,6.0,6.0,Negative
+19,Male,Graduate,5.3,YouTube,No,7.0,6.7,Neutral
+23,Female,Undergraduate,1.6,TikTok,Yes,8.7,8.9,Positive
+20,Male,High School,6.5,LinkedIn,Yes,4.5,4.7,Negative
+20,Female,Undergraduate,8.2,Twitter,Yes,5.0,5.9,Negative
+23,Male,High School,6.1,LinkedIn,Yes,5.9,4.8,Negative
+22,Male,Undergraduate,5.7,LinkedIn,No,7.3,6.9,Neutral
+19,Female,Undergraduate,5.1,Twitter,Yes,7.1,6.6,Neutral
+24,Male,Graduate,3.8,Twitter,Yes,6.3,6.2,Neutral
+20,Male,Graduate,5.7,YouTube,Yes,5.1,4.2,Negative
+20,Female,Graduate,6.6,Facebook,Yes,5.3,4.6,Negative
+20,Male,Undergraduate,8.3,Instagram,Yes,5.1,5.8,Negative
+20,Male,Graduate,7.1,Instagram,Yes,6.0,4.5,Negative
+18,Male,Graduate,3.0,Facebook,No,8.4,7.9,Positive
+22,Male,Graduate,8.5,Instagram,No,6.0,5.3,Negative
+24,Female,Graduate,3.5,Twitter,No,7.2,7.3,Positive
+18,Female,Undergraduate,3.8,Twitter,No,8.4,7.2,Positive
+19,Male,Undergraduate,2.0,Instagram,No,7.1,8.2,Positive
+18,Female,Graduate,4.2,Twitter,Yes,6.9,6.8,Neutral
+21,Female,High School,4.5,YouTube,No,6.1,6.3,Neutral
+24,Female,Undergraduate,4.2,YouTube,No,7.3,6.1,Neutral
+24,Female,High School,5.6,Facebook,Yes,5.5,4.1,Negative
+21,Female,Undergraduate,3.1,Facebook,Yes,7.2,8.5,Positive
+19,Female,Undergraduate,5.9,Instagram,No,5.5,4.0,Negative
+22,Female,High School,7.5,YouTube,Yes,5.5,4.7,Negative
+20,Male,Graduate,3.8,Snapchat,No,6.7,6.2,Neutral
+21,Female,High School,3.3,LinkedIn,No,8.9,7.9,Positive
+24,Male,Graduate,4.1,Facebook,No,6.1,6.0,Neutral
+19,Female,Undergraduate,6.8,YouTube,Yes,5.6,5.0,Negative
+23,Male,High School,3.5,Snapchat,No,7.0,6.0,Neutral
+19,Male,High School,3.4,YouTube,Yes,8.5,8.0,Positive
+19,Male,High School,5.8,LinkedIn,Yes,6.3,6.4,Neutral
+19,Female,High School,6.0,TikTok,Yes,6.8,6.5,Neutral
+23,Female,High School,3.0,TikTok,No,8.6,7.7,Positive
+19,Male,Undergraduate,5.0,Twitter,No,7.5,6.6,Neutral
+24,Female,Graduate,5.5,Twitter,Yes,4.6,5.1,Negative
+20,Female,Undergraduate,5.3,TikTok,Yes,6.0,6.5,Neutral
+21,Male,Undergraduate,5.6,Facebook,No,6.0,6.3,Neutral
+19,Female,Undergraduate,5.8,Facebook,Yes,7.4,6.5,Neutral
+18,Male,Undergraduate,2.2,Twitter,No,8.3,7.4,Positive
+24,Male,Graduate,1.7,LinkedIn,No,8.4,7.6,Positive
+21,Male,High School,3.0,Instagram,No,7.2,7.2,Positive
+18,Female,Graduate,4.7,TikTok,No,6.6,7.0,Neutral
+23,Male,Graduate,6.2,YouTube,No,5.9,5.6,Negative
+18,Male,Graduate,6.2,TikTok,Yes,5.9,4.9,Negative
+20,Female,Graduate,1.9,Instagram,No,7.8,7.8,Positive
+23,Male,High School,2.6,LinkedIn,No,8.8,8.1,Positive
+18,Male,High School,5.9,Facebook,No,6.1,6.2,Neutral
+20,Male,Undergraduate,3.9,LinkedIn,No,6.9,6.6,Neutral
+22,Female,High School,7.1,Instagram,No,5.1,4.1,Negative
+19,Male,Undergraduate,3.9,Twitter,Yes,6.1,6.0,Neutral
+20,Male,Undergraduate,8.0,TikTok,No,4.9,4.8,Negative
+24,Male,Graduate,5.9,Snapchat,No,6.1,6.1,Neutral
+24,Female,High School,8.4,Facebook,Yes,5.9,5.5,Negative
+21,Female,Graduate,7.5,YouTube,Yes,4.7,6.0,Negative
+20,Female,Graduate,7.5,Snapchat,Yes,5.2,4.8,Negative
+19,Male,High School,5.3,Snapchat,Yes,7.0,6.8,Neutral
+18,Male,Undergraduate,6.2,Twitter,No,4.7,4.2,Negative
+19,Male,High School,5.2,Facebook,Yes,6.5,6.1,Neutral
+21,Male,Undergraduate,5.5,Facebook,Yes,5.7,6.0,Negative
+20,Male,Undergraduate,7.9,Instagram,Yes,4.7,5.2,Negative
+23,Male,Graduate,7.7,Snapchat,Yes,5.3,4.5,Negative
+20,Male,High School,3.9,YouTube,Yes,6.7,6.0,Neutral
+21,Female,High School,3.9,LinkedIn,Yes,6.9,6.1,Neutral
+21,Female,High School,5.9,YouTube,Yes,6.0,5.1,Negative
+18,Male,High School,3.8,Facebook,No,8.4,8.3,Positive
+19,Male,Undergraduate,7.4,TikTok,Yes,5.5,4.1,Negative
+20,Female,Undergraduate,7.2,LinkedIn,Yes,5.9,4.2,Negative
+19,Male,Undergraduate,6.1,TikTok,Yes,4.6,4.9,Negative
+22,Male,High School,3.9,Facebook,No,8.6,8.3,Positive
+20,Female,Undergraduate,5.6,LinkedIn,Yes,4.9,5.9,Negative
+22,Female,High School,6.3,Snapchat,Yes,5.1,5.7,Negative
+22,Female,Graduate,2.3,Facebook,No,9.0,7.1,Positive
+19,Male,Undergraduate,6.4,YouTube,Yes,5.9,5.9,Negative
+19,Female,High School,5.2,YouTube,No,7.0,6.7,Neutral
+21,Female,Graduate,7.1,LinkedIn,Yes,5.5,4.4,Negative
+23,Female,Undergraduate,6.1,Instagram,Yes,4.6,5.2,Negative
+20,Male,High School,7.9,Twitter,Yes,5.4,5.3,Negative
+19,Female,High School,7.4,Twitter,Yes,4.6,5.8,Negative
+20,Female,Graduate,7.1,TikTok,Yes,5.9,4.2,Negative
+24,Male,Undergraduate,5.2,YouTube,Yes,6.5,6.0,Neutral
+21,Male,Graduate,5.8,Twitter,No,5.4,4.9,Negative
+21,Female,High School,5.8,YouTube,Yes,4.9,4.1,Negative
+19,Female,Undergraduate,2.2,Twitter,No,7.6,8.9,Positive
+24,Male,Graduate,6.9,Snapchat,Yes,5.3,4.3,Negative
+22,Female,High School,6.9,Snapchat,Yes,4.6,4.3,Negative
+20,Female,Undergraduate,6.3,Facebook,Yes,5.9,5.3,Negative
+24,Female,High School,4.4,Twitter,No,6.2,6.2,Neutral
+23,Male,Undergraduate,3.2,TikTok,No,8.9,8.0,Positive
+21,Female,High School,7.6,Facebook,No,5.9,4.7,Negative
+22,Female,Graduate,3.5,Instagram,Yes,8.7,8.0,Positive
+24,Male,High School,4.6,Snapchat,Yes,6.4,6.8,Neutral
+21,Female,Undergraduate,6.1,Twitter,Yes,4.5,5.3,Negative
+22,Male,Undergraduate,3.3,TikTok,No,8.2,7.4,Positive
+24,Male,High School,5.2,LinkedIn,Yes,6.9,6.9,Neutral
+20,Female,Graduate,5.9,LinkedIn,Yes,5.5,4.3,Negative
+23,Female,Undergraduate,6.1,Twitter,Yes,5.1,4.9,Negative
+21,Male,Graduate,3.9,TikTok,No,7.7,7.5,Positive
+20,Male,Undergraduate,7.2,Facebook,Yes,4.6,4.4,Negative
+22,Female,Undergraduate,7.9,LinkedIn,No,5.6,5.3,Negative
+18,Female,Undergraduate,7.5,TikTok,Yes,5.8,4.6,Negative
+24,Female,Undergraduate,6.4,Twitter,Yes,6.0,5.2,Negative
+21,Male,Undergraduate,7.6,Facebook,Yes,5.8,4.8,Negative
+18,Female,High School,5.8,Twitter,Yes,5.0,5.6,Negative
+23,Female,Graduate,2.8,Twitter,No,7.4,8.4,Positive
+20,Male,Undergraduate,6.3,Facebook,No,4.7,4.3,Negative
+23,Female,Undergraduate,4.3,Snapchat,Yes,7.4,6.1,Neutral
+20,Female,High School,8.2,Snapchat,Yes,4.8,4.0,Negative
+18,Male,Graduate,6.9,Twitter,Yes,5.9,4.1,Negative
+22,Male,Undergraduate,5.7,Facebook,Yes,4.6,4.8,Negative
+24,Female,High School,5.9,TikTok,No,5.8,5.6,Negative
+22,Female,High School,1.9,Snapchat,No,8.4,8.1,Positive
+23,Male,High School,7.7,Snapchat,Yes,5.1,5.7,Negative
+24,Male,Undergraduate,3.2,Twitter,No,7.8,8.4,Positive
+24,Female,Graduate,1.7,TikTok,No,8.7,8.0,Positive
+21,Male,Graduate,7.8,TikTok,Yes,5.0,4.5,Negative
+21,Male,High School,1.9,Instagram,Yes,8.7,8.1,Positive
+19,Male,Graduate,7.5,TikTok,Yes,4.9,4.2,Negative
+21,Male,Undergraduate,7.1,YouTube,Yes,5.9,4.7,Negative
+20,Female,High School,4.3,Facebook,No,6.4,6.2,Neutral
+23,Male,Undergraduate,8.2,Twitter,No,5.7,4.9,Negative
+21,Female,Undergraduate,8.3,TikTok,No,4.6,4.8,Negative
+18,Female,High School,8.1,Facebook,No,4.7,5.6,Negative
+19,Male,High School,4.8,TikTok,Yes,7.0,6.1,Neutral
+20,Female,Graduate,2.7,YouTube,No,7.8,7.5,Positive
+18,Male,Graduate,7.5,LinkedIn,Yes,5.4,4.2,Negative
+24,Male,High School,3.8,LinkedIn,No,7.9,8.8,Positive
+21,Female,Undergraduate,5.9,Instagram,Yes,4.9,5.6,Negative
+23,Male,High School,3.4,Instagram,No,8.4,7.3,Positive
+19,Male,Undergraduate,3.9,Twitter,Yes,6.6,6.9,Neutral
+19,Male,Undergraduate,7.9,TikTok,Yes,5.4,4.2,Negative
+24,Male,Graduate,2.1,Instagram,Yes,7.2,7.2,Positive
+18,Male,Undergraduate,6.3,Snapchat,Yes,4.5,5.2,Negative
+24,Male,Undergraduate,4.4,LinkedIn,Yes,7.5,6.8,Neutral
+21,Female,Undergraduate,3.7,Twitter,No,6.7,6.6,Neutral
+24,Female,High School,7.4,YouTube,Yes,5.9,4.3,Negative
+21,Female,Undergraduate,4.4,LinkedIn,Yes,6.4,6.4,Neutral
+23,Male,Undergraduate,2.5,LinkedIn,No,7.1,8.8,Positive
+19,Female,High School,6.5,Facebook,No,5.9,5.3,Negative
+21,Female,High School,3.7,Twitter,No,8.2,7.3,Positive
+22,Female,Graduate,7.6,TikTok,Yes,5.2,4.5,Negative
+18,Male,Graduate,6.8,Instagram,Yes,4.6,4.1,Negative
+23,Male,Graduate,7.5,Instagram,Yes,5.7,4.5,Negative
+24,Female,High School,7.1,YouTube,Yes,4.7,4.0,Negative
+24,Male,High School,6.7,Twitter,Yes,6.0,4.5,Negative
+19,Male,Undergraduate,3.6,Twitter,Yes,6.9,6.8,Neutral
+21,Male,High School,3.1,Snapchat,Yes,7.5,8.9,Positive
+21,Male,Graduate,5.2,TikTok,Yes,6.4,7.0,Neutral
+18,Female,Undergraduate,4.7,LinkedIn,No,6.2,6.4,Neutral
+19,Male,High School,2.9,YouTube,No,8.0,7.4,Positive
+23,Female,Graduate,3.6,Snapchat,No,8.4,8.4,Positive
+20,Female,High School,5.6,TikTok,No,6.8,6.5,Neutral
+22,Male,Graduate,5.2,Facebook,Yes,7.2,6.0,Neutral
+24,Female,Undergraduate,1.7,YouTube,No,7.1,7.5,Positive
+19,Male,Graduate,3.7,YouTube,No,7.0,6.7,Neutral
+22,Male,Undergraduate,1.5,Instagram,No,8.7,8.6,Positive
+21,Male,Graduate,4.4,Instagram,No,7.3,6.1,Neutral
+21,Male,Undergraduate,7.4,Instagram,Yes,4.8,4.8,Negative
+22,Female,High School,4.0,Facebook,Yes,6.0,6.2,Neutral
+20,Male,Graduate,2.0,Twitter,No,7.7,7.7,Positive
+20,Male,High School,5.7,LinkedIn,Yes,5.5,6.0,Negative
+18,Male,Undergraduate,4.5,LinkedIn,No,6.1,6.4,Neutral
+24,Male,High School,3.2,TikTok,No,7.5,8.0,Positive
+20,Female,High School,6.7,Twitter,Yes,5.1,5.7,Negative
+21,Male,Undergraduate,8.3,Snapchat,Yes,4.7,5.0,Negative
+18,Female,Undergraduate,3.2,Snapchat,No,7.8,8.5,Positive
+19,Female,High School,5.9,TikTok,No,6.3,6.8,Neutral
+21,Male,Undergraduate,5.2,YouTube,Yes,6.6,6.3,Neutral
+22,Male,Undergraduate,3.5,LinkedIn,No,8.1,7.2,Positive
+22,Male,High School,8.0,YouTube,Yes,5.2,4.7,Negative
+21,Female,Graduate,7.3,TikTok,Yes,5.8,5.6,Negative
+21,Male,Graduate,6.3,YouTube,Yes,5.9,4.5,Negative
+21,Male,Graduate,8.4,Snapchat,Yes,4.7,5.4,Negative
+19,Male,High School,2.4,LinkedIn,No,7.2,8.6,Positive
+23,Female,Graduate,6.4,Instagram,Yes,5.4,5.4,Negative
+24,Female,High School,4.8,LinkedIn,Yes,6.7,6.4,Neutral
+23,Female,High School,7.7,Snapchat,Yes,5.3,5.3,Negative
+21,Male,Undergraduate,6.7,Facebook,Yes,4.6,4.5,Negative
+20,Female,High School,2.9,Facebook,No,8.4,8.4,Positive
+19,Female,High School,8.3,LinkedIn,Yes,5.0,4.5,Negative
+18,Male,Undergraduate,2.5,LinkedIn,No,8.7,8.6,Positive
+18,Female,Graduate,6.2,Facebook,Yes,5.1,5.2,Negative
+24,Male,Graduate,2.8,Snapchat,No,8.5,7.6,Positive
+18,Female,High School,4.8,LinkedIn,Yes,6.8,6.3,Neutral
+20,Male,High School,7.6,Instagram,Yes,5.4,4.1,Negative
+19,Female,Undergraduate,4.5,Facebook,No,6.2,6.6,Neutral
+21,Male,High School,2.6,TikTok,No,7.4,8.9,Positive
+22,Female,Undergraduate,2.3,YouTube,No,8.8,9.0,Positive
+20,Male,Undergraduate,2.8,Twitter,No,8.2,7.3,Positive
+19,Male,Graduate,7.0,Instagram,Yes,4.7,5.5,Negative
+23,Female,Undergraduate,5.6,YouTube,No,6.6,6.5,Neutral
+21,Male,High School,3.5,Instagram,No,8.5,8.4,Positive
+18,Female,High School,5.9,Twitter,No,4.5,5.8,Negative
+19,Male,Graduate,2.4,LinkedIn,No,8.4,7.6,Positive
+20,Female,Graduate,6.4,Facebook,No,5.5,4.3,Negative
+21,Female,Graduate,2.7,Twitter,No,7.5,7.9,Positive
+24,Male,High School,8.2,Instagram,Yes,4.8,4.5,Negative
+22,Male,Undergraduate,1.9,Instagram,No,7.2,8.2,Positive
+21,Male,High School,5.4,Instagram,Yes,6.6,6.5,Neutral
+21,Female,Undergraduate,6.1,Snapchat,Yes,5.3,6.0,Negative
+23,Female,Graduate,7.4,Instagram,No,5.3,5.5,Negative
+24,Male,Undergraduate,7.1,LinkedIn,Yes,5.8,4.2,Negative
+21,Male,Undergraduate,5.7,Instagram,Yes,7.5,6.6,Neutral
+20,Female,High School,1.8,Twitter,No,7.2,7.5,Positive
+22,Female,Undergraduate,7.9,YouTube,Yes,5.1,4.9,Negative
+24,Male,Graduate,8.1,Twitter,Yes,6.0,4.8,Negative
+24,Female,High School,3.6,Instagram,No,6.9,6.5,Neutral
+21,Male,Graduate,7.8,Facebook,Yes,5.5,5.7,Negative
+22,Female,Undergraduate,7.0,Instagram,Yes,5.9,4.0,Negative
+22,Female,Graduate,7.7,TikTok,Yes,5.8,4.2,Negative
+24,Female,Graduate,5.7,Snapchat,Yes,6.9,6.4,Neutral
+19,Female,Undergraduate,4.9,LinkedIn,Yes,6.6,6.5,Neutral
+24,Female,High School,7.6,Instagram,No,5.3,4.9,Negative
+19,Female,High School,8.5,Snapchat,Yes,5.8,4.8,Negative
+22,Female,High School,6.6,TikTok,No,5.3,5.0,Negative
+20,Female,Graduate,7.5,Snapchat,No,5.9,4.6,Negative
+24,Female,High School,7.5,YouTube,Yes,4.8,5.4,Negative
+23,Male,Graduate,8.2,Facebook,Yes,5.7,4.0,Negative
+20,Female,Graduate,5.3,YouTube,No,7.1,6.6,Neutral
+22,Female,Undergraduate,4.9,LinkedIn,Yes,7.0,6.7,Neutral
+21,Female,High School,5.8,Instagram,Yes,5.8,5.1,Negative
+23,Male,Graduate,6.4,LinkedIn,Yes,5.4,4.3,Negative
+18,Female,Graduate,3.8,Snapchat,Yes,6.2,6.8,Neutral
+22,Female,Graduate,3.8,Facebook,Yes,6.9,6.5,Neutral
+18,Male,Graduate,4.0,Twitter,Yes,7.4,6.5,Neutral
+21,Male,Undergraduate,8.0,LinkedIn,Yes,5.5,5.6,Negative
+23,Female,Undergraduate,8.3,Snapchat,Yes,5.6,5.8,Negative
+19,Male,High School,5.8,LinkedIn,Yes,5.3,5.0,Negative
+23,Male,Graduate,6.2,Snapchat,Yes,5.3,5.0,Negative
+18,Male,Undergraduate,2.3,Snapchat,No,7.5,8.2,Positive
+19,Female,High School,6.2,YouTube,Yes,5.8,4.3,Negative
+20,Female,High School,7.0,Instagram,No,4.5,5.9,Negative
+24,Male,High School,3.8,LinkedIn,No,7.2,8.9,Positive
+18,Female,High School,3.3,TikTok,No,8.6,8.7,Positive
+19,Female,High School,1.5,Instagram,No,8.2,8.2,Positive
+18,Male,Graduate,6.7,YouTube,Yes,5.8,4.5,Negative
+23,Male,Graduate,2.9,YouTube,No,7.7,7.6,Positive
+24,Female,Undergraduate,3.2,YouTube,Yes,7.7,7.9,Positive
+21,Female,Graduate,6.0,Twitter,Yes,5.9,4.1,Negative
+21,Female,Undergraduate,3.2,YouTube,No,7.6,7.6,Positive
+22,Male,Graduate,2.3,Snapchat,Yes,8.1,7.3,Positive
+22,Male,Undergraduate,8.1,YouTube,Yes,5.6,5.4,Negative
+21,Male,Graduate,3.5,Twitter,No,7.5,8.9,Positive
+21,Male,Graduate,5.8,TikTok,Yes,5.5,5.4,Negative
+24,Female,Graduate,2.9,Twitter,No,8.0,7.0,Positive
+22,Male,Undergraduate,6.0,YouTube,Yes,6.7,6.4,Neutral
+19,Male,Graduate,5.8,YouTube,Yes,5.3,5.8,Negative
+19,Male,Graduate,4.9,Facebook,No,6.0,6.3,Neutral
+20,Male,High School,5.6,TikTok,Yes,6.8,6.8,Neutral
+18,Male,High School,5.6,YouTube,Yes,4.5,5.7,Negative
+19,Male,Undergraduate,7.5,TikTok,Yes,4.7,4.1,Negative
+20,Female,High School,8.2,Instagram,Yes,5.8,4.9,Negative
+18,Female,High School,7.4,YouTube,Yes,5.8,4.7,Negative
+18,Female,High School,6.3,LinkedIn,Yes,5.9,5.4,Negative
+23,Female,High School,2.1,LinkedIn,No,8.1,8.8,Positive
+19,Male,High School,5.7,YouTube,Yes,6.0,5.8,Negative
+21,Male,High School,7.1,TikTok,Yes,4.5,4.5,Negative
+23,Male,Graduate,5.6,Snapchat,Yes,5.8,4.0,Negative
+23,Female,High School,7.5,Instagram,Yes,5.9,5.2,Negative
+24,Female,Graduate,3.0,Snapchat,Yes,7.1,7.2,Positive
+21,Female,High School,3.7,YouTube,No,8.7,8.6,Positive
+21,Male,High School,3.6,TikTok,Yes,8.5,7.1,Positive
+19,Female,High School,5.4,YouTube,No,6.4,6.6,Neutral
+23,Male,Undergraduate,2.0,Facebook,No,7.7,7.9,Positive
+22,Female,Undergraduate,5.8,TikTok,Yes,5.7,4.1,Negative
+21,Female,Graduate,4.5,Instagram,Yes,6.4,6.7,Neutral
+24,Male,Graduate,6.3,Snapchat,No,5.3,4.3,Negative
+23,Female,Undergraduate,7.9,Instagram,Yes,5.6,5.1,Negative
+24,Female,High School,6.0,TikTok,Yes,4.9,5.4,Negative
+19,Male,Graduate,5.0,YouTube,Yes,6.2,6.4,Neutral
+18,Female,Graduate,6.7,Facebook,Yes,5.8,4.6,Negative
+23,Male,High School,7.2,Twitter,Yes,5.3,6.0,Negative
+21,Female,Graduate,3.8,LinkedIn,No,7.2,7.5,Positive
+22,Female,High School,4.6,YouTube,Yes,6.4,6.0,Neutral
+22,Male,Graduate,5.7,Snapchat,No,6.6,6.4,Neutral
+22,Female,Undergraduate,6.3,YouTube,Yes,5.6,5.0,Negative
+19,Male,Graduate,7.9,LinkedIn,Yes,5.8,4.1,Negative
+23,Female,Graduate,5.0,Snapchat,No,6.1,6.6,Neutral
+21,Female,Graduate,3.5,TikTok,Yes,7.5,9.0,Positive
+22,Female,Graduate,5.2,LinkedIn,Yes,7.2,6.3,Neutral
+19,Female,Graduate,2.7,YouTube,No,8.6,7.5,Positive
+23,Female,Undergraduate,6.5,Twitter,Yes,5.6,4.6,Negative
+23,Male,Undergraduate,4.1,TikTok,Yes,7.4,6.9,Neutral
+23,Male,Graduate,2.4,LinkedIn,No,7.1,7.1,Positive
+22,Male,High School,5.1,Twitter,Yes,6.3,6.9,Neutral
+18,Male,Undergraduate,5.9,Twitter,Yes,6.0,6.5,Neutral
+19,Female,Undergraduate,5.7,TikTok,Yes,5.2,4.1,Negative
+24,Female,Undergraduate,8.2,Twitter,Yes,5.0,4.7,Negative
+19,Male,Undergraduate,6.9,TikTok,No,5.0,5.6,Negative
+21,Male,High School,7.6,Twitter,Yes,5.0,4.1,Negative
+19,Male,Undergraduate,2.0,Snapchat,No,7.5,7.8,Positive
+18,Male,Graduate,3.9,Facebook,Yes,7.3,8.5,Positive
+19,Female,High School,4.5,LinkedIn,Yes,6.1,6.3,Neutral
+20,Male,Graduate,3.5,TikTok,Yes,7.1,8.1,Positive
+18,Male,Graduate,7.3,Twitter,Yes,5.3,5.0,Negative
+21,Female,High School,3.7,Facebook,No,7.5,8.3,Positive
+23,Male,Undergraduate,4.7,YouTube,Yes,6.9,6.2,Neutral
+18,Male,High School,5.3,YouTube,Yes,6.9,6.4,Neutral
+20,Male,Graduate,7.3,Twitter,Yes,5.3,6.0,Negative
+19,Female,Graduate,3.8,LinkedIn,No,7.4,6.9,Neutral
+22,Female,Graduate,8.4,Instagram,No,6.0,5.5,Negative
+19,Female,Undergraduate,8.3,Twitter,No,4.7,4.6,Negative
+21,Male,Undergraduate,4.0,Snapchat,No,6.6,6.9,Neutral
+23,Female,Undergraduate,7.6,YouTube,Yes,4.7,4.8,Negative
+23,Female,High School,5.3,Facebook,Yes,7.3,6.2,Neutral
+18,Male,High School,5.9,Snapchat,No,6.2,6.1,Neutral
+22,Female,Undergraduate,4.1,TikTok,No,6.4,6.9,Neutral
+22,Male,High School,5.6,TikTok,Yes,6.1,6.3,Neutral
+21,Female,High School,8.4,Facebook,Yes,5.2,5.1,Negative
+20,Male,Undergraduate,5.8,Snapchat,Yes,5.8,4.9,Negative
+24,Female,Graduate,8.2,YouTube,Yes,4.5,5.6,Negative
+21,Male,Graduate,4.8,Twitter,Yes,6.6,7.0,Neutral
+21,Female,High School,7.6,Snapchat,Yes,4.9,5.1,Negative
+22,Female,High School,3.1,Twitter,No,8.5,7.0,Positive
+18,Male,Undergraduate,7.5,Instagram,No,5.4,5.5,Negative
+20,Female,Graduate,3.9,Snapchat,Yes,6.3,6.2,Neutral
+20,Female,Undergraduate,7.1,LinkedIn,Yes,6.0,4.1,Negative
+22,Male,Undergraduate,6.3,TikTok,Yes,5.4,6.0,Negative
+24,Female,Undergraduate,6.2,LinkedIn,Yes,6.0,4.8,Negative
+21,Female,Graduate,4.9,LinkedIn,Yes,6.8,6.3,Neutral
+18,Male,Graduate,3.0,Instagram,Yes,7.7,8.5,Positive
+19,Male,Undergraduate,8.0,Twitter,Yes,4.8,4.9,Negative
+21,Female,Undergraduate,8.2,Facebook,Yes,5.7,5.0,Negative
+18,Female,Undergraduate,6.0,TikTok,Yes,5.5,5.0,Negative
+19,Female,Undergraduate,4.8,YouTube,No,6.9,6.9,Neutral
+24,Female,Graduate,5.3,Instagram,No,6.4,6.8,Neutral
+22,Female,Undergraduate,4.5,Instagram,Yes,6.6,6.8,Neutral
+23,Female,Undergraduate,1.7,Twitter,No,7.0,8.9,Positive
+18,Male,Graduate,6.1,YouTube,Yes,4.6,5.1,Negative
+18,Male,Graduate,1.9,Twitter,No,7.3,8.9,Positive
+21,Male,Undergraduate,7.7,Instagram,No,5.8,5.1,Negative
+21,Female,Undergraduate,6.9,Instagram,Yes,5.2,5.9,Negative
+24,Male,Graduate,5.9,Twitter,Yes,5.9,4.4,Negative
+20,Male,Graduate,2.4,YouTube,No,8.7,7.2,Positive
+18,Male,High School,6.5,LinkedIn,Yes,5.0,5.0,Negative
+20,Male,Graduate,2.6,LinkedIn,Yes,8.8,8.5,Positive
+20,Male,Graduate,6.9,TikTok,Yes,5.3,5.1,Negative
+19,Female,Graduate,5.4,Snapchat,Yes,7.3,6.3,Neutral
+21,Male,Graduate,4.7,Instagram,Yes,7.4,6.6,Neutral
+21,Male,High School,2.9,Facebook,Yes,8.7,8.9,Positive
+21,Male,High School,1.7,Instagram,No,8.1,7.8,Positive
+23,Female,High School,6.2,TikTok,Yes,6.0,4.3,Negative
+23,Male,Graduate,5.6,TikTok,Yes,5.5,4.2,Negative
+19,Female,Graduate,4.5,TikTok,Yes,6.5,6.8,Neutral
+24,Female,Graduate,8.0,Snapchat,No,5.6,6.0,Negative
+21,Male,High School,3.5,Twitter,Yes,7.4,6.7,Neutral
+22,Male,Undergraduate,4.8,Twitter,No,6.9,6.1,Neutral
+24,Female,Undergraduate,2.3,YouTube,No,8.8,8.5,Positive
+22,Male,Graduate,8.0,LinkedIn,Yes,4.5,5.4,Negative
+22,Male,Graduate,6.6,Snapchat,Yes,5.2,5.2,Negative
+22,Male,Graduate,1.6,TikTok,Yes,8.2,8.6,Positive
+22,Female,Graduate,6.8,Instagram,Yes,5.4,4.4,Negative
+19,Male,Graduate,1.8,TikTok,No,7.6,8.3,Positive
+20,Female,Undergraduate,3.9,TikTok,No,8.8,8.5,Positive
+24,Male,High School,6.7,Snapchat,No,5.4,5.4,Negative
+23,Male,Undergraduate,7.8,Twitter,Yes,5.7,5.9,Negative
+20,Female,Graduate,5.0,TikTok,Yes,7.4,6.7,Neutral
+18,Female,Undergraduate,7.6,Facebook,No,4.5,5.9,Negative
+21,Female,Undergraduate,1.7,Instagram,No,8.7,7.4,Positive
+22,Female,High School,5.8,LinkedIn,No,6.7,6.5,Neutral
+21,Male,High School,6.4,Snapchat,No,5.5,5.9,Negative
+22,Female,Undergraduate,2.5,Snapchat,No,8.0,8.6,Positive
+24,Male,Graduate,5.2,YouTube,Yes,6.5,6.4,Neutral
+23,Male,Undergraduate,5.2,TikTok,Yes,6.8,6.9,Neutral
+20,Female,Graduate,6.8,TikTok,Yes,5.1,4.9,Negative
+22,Female,Undergraduate,7.1,LinkedIn,Yes,6.0,4.1,Negative
+21,Female,High School,4.7,Facebook,No,7.1,6.5,Neutral
+19,Male,Undergraduate,7.7,Facebook,Yes,5.4,4.4,Negative
+21,Female,High School,2.6,LinkedIn,No,8.9,8.3,Positive
+19,Female,Undergraduate,6.2,TikTok,Yes,5.0,4.8,Negative
+22,Male,Undergraduate,5.7,Snapchat,Yes,7.4,6.9,Neutral
+20,Female,Graduate,2.9,Twitter,No,7.3,7.1,Positive
+19,Female,High School,4.2,Facebook,Yes,6.9,6.7,Neutral
+21,Male,Graduate,3.8,YouTube,Yes,9.0,8.5,Positive
+23,Female,Graduate,3.6,Instagram,No,7.6,7.9,Positive
+24,Female,Undergraduate,2.1,Instagram,No,8.0,8.7,Positive
+23,Female,High School,4.7,Twitter,No,7.3,6.0,Neutral
+24,Male,High School,7.7,LinkedIn,Yes,5.8,4.4,Negative
+23,Female,High School,7.2,Facebook,No,5.6,4.6,Negative
+23,Male,Graduate,8.4,Twitter,No,5.6,5.7,Negative
+22,Female,Graduate,4.8,Instagram,No,7.0,6.3,Neutral
+21,Female,Graduate,2.6,TikTok,Yes,8.7,7.5,Positive
+20,Male,Undergraduate,8.1,Twitter,Yes,4.6,4.7,Negative
+19,Male,High School,6.3,TikTok,Yes,5.4,4.9,Negative
+20,Male,Graduate,7.6,LinkedIn,Yes,4.6,5.0,Negative
+20,Female,High School,6.1,YouTube,Yes,5.1,4.1,Negative
+24,Female,Graduate,3.3,Facebook,No,7.2,7.3,Positive
+23,Female,Undergraduate,6.9,TikTok,Yes,5.9,4.6,Negative
+20,Male,High School,2.9,YouTube,No,7.6,7.6,Positive
+24,Male,High School,5.6,TikTok,Yes,5.6,5.3,Negative
+19,Male,High School,4.3,YouTube,Yes,6.4,6.4,Neutral
+21,Male,High School,6.8,Twitter,Yes,4.6,4.0,Negative
+23,Female,Undergraduate,5.4,Instagram,No,6.6,6.3,Neutral
+19,Male,Graduate,8.1,YouTube,No,4.5,5.8,Negative
+22,Female,Undergraduate,7.3,TikTok,Yes,4.8,5.7,Negative
+24,Male,Graduate,3.7,LinkedIn,No,8.5,8.0,Positive
+18,Male,High School,3.7,LinkedIn,Yes,8.6,7.4,Positive
+24,Male,Undergraduate,6.3,Facebook,Yes,5.6,4.5,Negative
+22,Male,High School,5.6,Instagram,Yes,5.8,5.2,Negative
+24,Female,High School,3.7,YouTube,Yes,7.4,6.7,Neutral
+21,Male,Graduate,7.2,LinkedIn,Yes,5.1,4.3,Negative
+18,Male,Undergraduate,7.0,YouTube,No,5.2,4.9,Negative
+24,Female,Undergraduate,5.5,Twitter,Yes,4.6,4.8,Negative
+19,Female,High School,5.4,Facebook,No,6.7,6.6,Neutral
+18,Male,Undergraduate,2.3,TikTok,No,8.1,7.1,Positive
+18,Male,High School,5.9,Facebook,No,5.1,4.1,Negative
+19,Male,High School,5.3,Facebook,Yes,6.8,6.4,Neutral
+20,Male,Graduate,2.0,LinkedIn,No,8.2,7.7,Positive
+24,Male,Undergraduate,1.6,Snapchat,No,8.9,7.4,Positive
+21,Female,High School,5.7,LinkedIn,Yes,6.8,6.6,Neutral
+23,Female,High School,6.6,Instagram,No,4.6,6.0,Negative
+22,Male,High School,6.6,LinkedIn,Yes,4.8,4.7,Negative
+20,Female,Undergraduate,6.9,Instagram,Yes,4.5,4.4,Negative
+18,Male,High School,3.7,LinkedIn,Yes,7.9,8.2,Positive
+23,Male,Undergraduate,2.3,LinkedIn,No,7.5,7.4,Positive
+24,Female,Undergraduate,6.7,Snapchat,No,4.9,4.2,Negative
+20,Female,Graduate,6.3,LinkedIn,Yes,5.7,5.3,Negative
+21,Female,Undergraduate,4.2,TikTok,No,6.1,6.5,Neutral
+21,Female,High School,2.3,Twitter,Yes,7.0,8.4,Positive
+23,Female,Undergraduate,2.2,Instagram,No,8.6,7.7,Positive
+23,Male,Graduate,3.6,TikTok,No,8.6,7.9,Positive
+19,Male,Graduate,3.3,Instagram,No,8.2,7.3,Positive
+19,Male,High School,6.5,TikTok,Yes,5.0,4.2,Negative
+18,Male,Undergraduate,7.4,Twitter,Yes,4.9,4.3,Negative
+23,Female,Graduate,4.7,Twitter,No,7.3,6.3,Neutral
+24,Female,Undergraduate,3.8,Facebook,No,6.8,6.9,Neutral
+23,Female,Undergraduate,6.1,Snapchat,Yes,5.3,5.7,Negative
+18,Male,High School,6.1,Instagram,Yes,5.6,4.6,Negative
+18,Female,Undergraduate,7.7,Facebook,No,5.4,4.0,Negative
+18,Male,High School,5.0,Snapchat,Yes,6.5,6.8,Neutral
+20,Female,Graduate,5.9,YouTube,Yes,5.0,5.6,Negative
+18,Female,Undergraduate,8.0,Twitter,Yes,5.4,5.7,Negative
+20,Male,Graduate,4.4,YouTube,No,6.1,6.5,Neutral
+20,Male,High School,7.5,LinkedIn,No,5.2,5.2,Negative
+22,Male,Graduate,5.5,Twitter,Yes,7.1,7.0,Neutral
+22,Male,Undergraduate,6.0,Instagram,Yes,5.8,5.5,Negative
+21,Male,Undergraduate,2.1,Twitter,No,8.8,7.0,Positive
+22,Male,Undergraduate,4.1,Facebook,No,6.7,6.3,Neutral
+18,Female,Graduate,5.6,Twitter,Yes,5.6,4.4,Negative
+23,Male,Undergraduate,1.8,Instagram,No,7.8,7.0,Positive
+22,Male,Graduate,4.7,Facebook,Yes,6.6,6.9,Neutral
+23,Male,Undergraduate,3.9,Twitter,No,7.3,7.0,Positive
+22,Female,Undergraduate,6.6,YouTube,Yes,5.0,4.1,Negative
+21,Male,High School,5.9,Facebook,Yes,4.6,5.2,Negative
+24,Female,High School,3.8,Facebook,Yes,7.5,8.8,Positive
+18,Female,High School,7.2,YouTube,Yes,5.5,5.8,Negative
+24,Female,Graduate,7.5,YouTube,No,4.9,4.9,Negative
+18,Male,High School,1.6,Snapchat,No,8.4,7.7,Positive
+22,Male,High School,8.1,Snapchat,Yes,5.4,5.1,Negative
+18,Male,Undergraduate,7.1,Instagram,Yes,5.9,4.8,Negative
+23,Male,High School,2.7,Instagram,No,8.8,8.4,Positive
+24,Male,Graduate,5.8,Snapchat,Yes,4.8,4.9,Negative
+21,Male,High School,6.8,Facebook,Yes,5.7,5.6,Negative
+24,Male,Undergraduate,7.4,Twitter,Yes,5.3,4.1,Negative
+22,Female,Undergraduate,4.1,YouTube,Yes,7.2,6.3,Neutral
+22,Male,Undergraduate,6.3,Snapchat,Yes,5.6,4.2,Negative
+24,Male,Graduate,7.5,Instagram,Yes,5.7,5.7,Negative
+18,Female,Undergraduate,8.0,TikTok,Yes,4.8,5.3,Negative
+19,Male,Graduate,5.9,YouTube,No,6.0,7.0,Neutral
+24,Male,Graduate,4.4,TikTok,No,6.3,6.2,Neutral
+24,Male,High School,7.0,YouTube,Yes,5.6,5.7,Negative
+21,Female,Graduate,8.0,Twitter,No,5.2,5.6,Negative
+21,Male,High School,2.5,Instagram,No,7.0,8.2,Positive
+19,Female,Graduate,6.2,Facebook,Yes,5.2,5.9,Negative
+21,Female,High School,7.4,LinkedIn,Yes,4.6,5.4,Negative
+20,Female,High School,4.6,YouTube,No,6.1,6.7,Neutral
+18,Male,Graduate,6.3,Facebook,Yes,4.8,5.0,Negative
+24,Female,Undergraduate,3.2,TikTok,No,7.9,7.4,Positive
+19,Female,Graduate,5.4,LinkedIn,No,7.1,6.5,Neutral
+24,Male,Undergraduate,2.5,LinkedIn,No,7.9,8.8,Positive
+21,Female,Graduate,2.0,LinkedIn,No,8.7,8.4,Positive
+23,Female,Undergraduate,2.8,Twitter,No,8.5,8.3,Positive
+22,Female,High School,5.2,TikTok,Yes,6.3,6.8,Neutral
+21,Male,Graduate,5.2,YouTube,No,6.7,6.8,Neutral
+21,Female,High School,8.1,YouTube,Yes,5.6,4.5,Negative
+18,Male,Graduate,2.8,Instagram,No,7.3,8.2,Positive
+19,Male,High School,5.9,LinkedIn,No,7.4,6.5,Neutral
+22,Male,High School,1.6,TikTok,No,7.7,7.8,Positive
+18,Female,High School,7.6,Snapchat,Yes,5.4,5.8,Negative
+18,Female,High School,1.9,YouTube,No,7.9,7.2,Positive
+18,Female,High School,2.9,Snapchat,No,8.2,7.4,Positive
+18,Female,Undergraduate,2.1,Instagram,No,8.7,7.9,Positive
+18,Male,High School,5.8,LinkedIn,Yes,5.9,5.5,Negative
+18,Female,High School,3.6,Twitter,Yes,7.1,7.0,Neutral
+18,Male,Graduate,3.9,YouTube,Yes,6.0,6.7,Neutral
+20,Male,Undergraduate,8.1,LinkedIn,No,5.9,5.9,Negative
+20,Male,High School,8.2,Twitter,Yes,5.2,5.4,Negative
+23,Male,Undergraduate,6.0,Snapchat,Yes,6.5,6.1,Neutral
+19,Female,Graduate,6.1,Facebook,Yes,4.6,4.3,Negative
+22,Female,High School,7.2,TikTok,Yes,4.5,5.9,Negative
+21,Female,Graduate,2.5,Facebook,No,8.7,8.3,Positive
+19,Male,Undergraduate,3.8,Snapchat,Yes,6.6,6.8,Neutral
+22,Male,Undergraduate,5.5,YouTube,Yes,5.2,4.6,Negative
+20,Male,Graduate,5.6,Snapchat,Yes,5.8,5.1,Negative
+22,Female,Undergraduate,4.5,Snapchat,Yes,6.7,6.9,Neutral
+20,Male,High School,2.8,LinkedIn,No,8.5,8.7,Positive
+20,Female,Undergraduate,5.5,LinkedIn,No,6.5,6.8,Neutral
+18,Female,Undergraduate,6.3,LinkedIn,No,5.1,4.2,Negative
+22,Male,High School,4.0,YouTube,No,8.5,8.5,Positive
+22,Female,High School,5.1,Facebook,Yes,7.1,6.1,Neutral
+20,Female,Undergraduate,4.9,Twitter,No,6.0,7.0,Neutral
+24,Female,Undergraduate,2.2,LinkedIn,No,7.1,7.1,Positive
+23,Female,High School,4.0,Instagram,Yes,7.1,8.0,Positive
+21,Female,High School,5.1,LinkedIn,No,6.9,6.0,Neutral
+22,Male,High School,3.7,YouTube,No,7.4,9.0,Positive
+19,Male,High School,4.4,TikTok,No,7.0,6.2,Neutral
+20,Male,Undergraduate,7.7,TikTok,Yes,5.6,5.3,Negative
+19,Male,Undergraduate,6.0,LinkedIn,Yes,5.5,4.7,Negative
+22,Female,Graduate,7.0,Instagram,Yes,5.8,4.3,Negative
+19,Female,Undergraduate,5.2,Twitter,No,6.8,6.2,Neutral
+18,Male,High School,6.5,Snapchat,No,5.4,4.1,Negative
+20,Female,Graduate,3.2,TikTok,No,8.6,7.5,Positive
+23,Female,Graduate,4.3,TikTok,No,6.1,6.3,Neutral
+22,Male,Undergraduate,6.2,YouTube,No,5.5,4.8,Negative
+20,Female,Graduate,6.4,Facebook,Yes,5.5,5.7,Negative
+24,Male,Graduate,8.1,LinkedIn,Yes,5.1,5.1,Negative
+21,Male,Undergraduate,5.2,Facebook,No,7.3,6.6,Neutral
+22,Male,Undergraduate,6.9,Snapchat,Yes,4.6,5.2,Negative
+22,Male,Undergraduate,2.6,YouTube,No,7.7,8.9,Positive
+22,Female,Graduate,1.6,LinkedIn,Yes,7.1,7.4,Positive
+21,Male,High School,3.8,Snapchat,No,6.7,6.8,Neutral
+22,Female,Undergraduate,7.4,TikTok,Yes,5.2,5.1,Negative
+20,Female,Undergraduate,6.4,TikTok,No,5.8,4.1,Negative
+19,Male,Undergraduate,5.1,Twitter,No,7.3,6.6,Neutral
+18,Male,Graduate,6.3,Snapchat,Yes,5.8,5.6,Negative
+23,Female,Graduate,5.7,Snapchat,Yes,5.5,4.5,Negative
+24,Female,Graduate,7.3,YouTube,Yes,5.6,5.0,Negative
+19,Female,Graduate,4.4,LinkedIn,No,6.9,6.5,Neutral
+19,Male,Undergraduate,6.5,LinkedIn,Yes,5.4,5.8,Negative
+23,Male,High School,3.8,YouTube,No,6.7,6.3,Neutral
+24,Male,Graduate,4.8,YouTube,No,6.7,6.1,Neutral
+18,Female,Undergraduate,2.5,LinkedIn,No,7.3,7.3,Positive
+18,Female,Graduate,2.8,Twitter,No,8.6,8.0,Positive
+21,Male,Graduate,7.2,TikTok,Yes,4.7,5.8,Negative
+19,Female,Graduate,8.4,Snapchat,Yes,5.0,4.5,Negative
+20,Female,High School,2.5,Facebook,Yes,8.0,9.0,Positive
+19,Male,High School,8.4,Snapchat,Yes,4.8,5.4,Negative
+21,Male,High School,2.5,Snapchat,No,7.4,8.0,Positive
+22,Female,High School,6.6,Snapchat,Yes,4.7,5.4,Negative
+19,Female,Undergraduate,3.7,LinkedIn,No,6.1,6.6,Neutral
+22,Female,Undergraduate,2.9,Facebook,No,7.0,7.2,Positive
+23,Male,Undergraduate,3.3,Instagram,No,8.8,9.0,Positive
+24,Male,Graduate,7.4,Twitter,Yes,5.6,5.1,Negative
+22,Female,Undergraduate,3.0,YouTube,No,8.3,7.8,Positive
+22,Male,Undergraduate,6.8,Facebook,Yes,5.2,4.3,Negative
+23,Female,Graduate,2.6,Facebook,Yes,7.7,8.7,Positive
+22,Male,Undergraduate,6.7,Facebook,Yes,5.1,4.7,Negative
+23,Female,High School,6.7,Instagram,Yes,5.8,5.5,Negative
+21,Male,Undergraduate,3.6,YouTube,Yes,6.2,6.1,Neutral
+23,Male,High School,3.4,YouTube,No,8.7,7.8,Positive
+20,Male,Undergraduate,6.8,YouTube,Yes,6.0,5.1,Negative
+18,Male,Undergraduate,2.4,Twitter,Yes,7.3,8.4,Positive
+18,Male,High School,6.0,Snapchat,Yes,5.0,5.5,Negative
+23,Female,Graduate,7.4,Instagram,Yes,4.6,4.3,Negative
+23,Female,Undergraduate,4.5,Twitter,Yes,6.9,6.1,Neutral
+23,Male,Graduate,6.6,TikTok,No,5.6,5.0,Negative
+19,Male,High School,3.6,Facebook,No,8.8,7.9,Positive
+20,Male,Graduate,2.0,LinkedIn,No,7.6,7.6,Positive
+21,Female,Undergraduate,3.9,Facebook,No,7.8,7.1,Positive
+20,Male,High School,5.5,Instagram,No,6.7,6.8,Neutral
+18,Male,High School,6.7,Instagram,No,4.8,5.8,Negative
+21,Male,Undergraduate,8.2,Snapchat,No,4.9,5.6,Negative
+21,Female,High School,5.8,TikTok,Yes,5.6,6.0,Negative
+18,Female,High School,5.9,Snapchat,Yes,4.6,5.6,Negative
+18,Male,Undergraduate,7.2,Instagram,Yes,5.9,4.4,Negative
+24,Male,Graduate,6.5,Instagram,No,5.3,4.8,Negative
+19,Female,Undergraduate,2.9,LinkedIn,No,8.9,7.4,Positive
+24,Male,Undergraduate,6.3,TikTok,Yes,5.7,5.6,Negative
+18,Male,High School,4.4,Twitter,Yes,6.1,6.5,Neutral
+21,Female,Undergraduate,7.1,TikTok,Yes,5.5,4.8,Negative
+20,Female,High School,3.8,TikTok,No,7.2,8.1,Positive
+22,Female,Undergraduate,7.9,Instagram,Yes,5.4,4.7,Negative
+19,Female,High School,5.6,LinkedIn,Yes,6.3,6.4,Neutral
+20,Female,High School,6.3,YouTube,Yes,5.2,4.6,Negative
+21,Male,Undergraduate,3.2,TikTok,No,7.1,7.1,Positive
+20,Male,Undergraduate,2.0,Snapchat,Yes,7.1,9.0,Positive
+23,Male,Undergraduate,7.6,Snapchat,Yes,5.9,4.1,Negative
+23,Female,Graduate,7.4,YouTube,Yes,5.7,4.2,Negative
+21,Male,Undergraduate,5.6,YouTube,Yes,4.9,5.5,Negative
+19,Female,High School,4.6,LinkedIn,Yes,7.2,6.5,Neutral
+19,Female,Graduate,6.1,Facebook,Yes,4.8,4.2,Negative
+20,Female,Undergraduate,4.2,Snapchat,No,6.2,6.7,Neutral
+22,Female,Undergraduate,3.7,LinkedIn,No,6.2,6.9,Neutral
+23,Male,Undergraduate,6.1,LinkedIn,No,5.6,4.5,Negative
+19,Female,Graduate,6.1,TikTok,Yes,5.5,5.6,Negative
+20,Male,High School,2.7,LinkedIn,No,7.6,8.9,Positive
+20,Male,Undergraduate,6.0,Snapchat,No,5.8,4.9,Negative
+23,Male,Graduate,6.4,TikTok,Yes,5.4,4.6,Negative
+21,Male,Graduate,5.7,YouTube,Yes,5.3,5.8,Negative
+20,Male,High School,7.0,Instagram,Yes,5.3,5.1,Negative
+23,Female,Graduate,7.7,Facebook,Yes,5.7,4.6,Negative
+19,Male,Graduate,6.3,TikTok,Yes,4.8,4.0,Negative
+20,Female,Undergraduate,5.7,Twitter,Yes,5.2,5.5,Negative
+18,Male,Undergraduate,8.2,LinkedIn,Yes,5.2,4.6,Negative
+19,Female,Undergraduate,6.4,Twitter,Yes,5.5,4.4,Negative
+22,Male,High School,6.6,TikTok,Yes,4.7,4.3,Negative
+18,Female,Undergraduate,6.0,LinkedIn,Yes,4.6,5.4,Negative
+21,Female,High School,5.9,LinkedIn,Yes,5.1,5.9,Negative
+23,Female,Undergraduate,7.4,LinkedIn,No,5.1,4.3,Negative
+19,Male,Graduate,5.8,Snapchat,Yes,5.6,4.5,Negative
+21,Female,High School,5.8,Instagram,Yes,6.0,4.4,Negative
+21,Male,High School,1.8,LinkedIn,No,9.0,8.2,Positive
+18,Male,Graduate,6.5,Snapchat,No,5.4,4.1,Negative
+23,Male,Undergraduate,3.8,Instagram,Yes,6.5,6.6,Neutral
+18,Male,High School,8.0,TikTok,Yes,5.6,4.5,Negative
+19,Male,Undergraduate,7.7,Twitter,Yes,5.5,4.7,Negative
+19,Male,Undergraduate,8.1,Snapchat,Yes,5.2,5.0,Negative
+22,Male,Undergraduate,6.2,TikTok,No,5.2,5.8,Negative
+18,Female,Undergraduate,4.9,Facebook,No,7.1,6.6,Neutral
+23,Male,High School,3.9,YouTube,No,8.5,8.9,Positive
+21,Male,Undergraduate,6.6,Twitter,No,5.0,6.0,Negative
+22,Male,High School,6.2,Instagram,No,4.7,4.4,Negative
+24,Male,Graduate,2.4,Facebook,No,7.5,7.1,Positive
+19,Male,Undergraduate,3.6,Instagram,Yes,8.7,8.5,Positive
+18,Male,High School,2.8,Instagram,Yes,8.8,8.6,Positive
+23,Male,High School,1.6,YouTube,No,7.1,8.1,Positive
+22,Male,High School,7.3,Facebook,Yes,5.9,4.4,Negative
+18,Female,High School,6.8,YouTube,Yes,5.2,5.2,Negative
+22,Male,Undergraduate,7.7,Facebook,Yes,5.0,6.0,Negative
+23,Female,Graduate,5.5,LinkedIn,No,7.3,6.9,Neutral
+22,Male,High School,6.2,TikTok,No,5.5,5.9,Negative
+24,Female,Graduate,4.6,LinkedIn,Yes,6.8,6.4,Neutral
+20,Male,Graduate,7.2,Facebook,Yes,5.6,5.6,Negative
+24,Male,Graduate,3.3,TikTok,Yes,7.7,7.7,Positive
+23,Male,Graduate,5.4,YouTube,Yes,6.6,6.4,Neutral
+23,Female,Undergraduate,3.2,TikTok,No,7.6,9.0,Positive
+18,Female,Graduate,3.7,Snapchat,No,7.9,7.3,Positive
+19,Female,High School,6.3,Snapchat,Yes,5.7,5.4,Negative
+21,Female,Undergraduate,7.5,YouTube,Yes,5.0,4.8,Negative
+23,Female,Graduate,6.0,Facebook,Yes,6.0,5.7,Negative
+20,Male,High School,8.2,TikTok,No,5.8,5.9,Negative
+18,Female,High School,6.1,YouTube,Yes,5.5,4.5,Negative
+19,Female,Graduate,8.2,Instagram,Yes,4.5,5.8,Negative
+24,Male,Graduate,5.3,LinkedIn,No,7.0,6.2,Neutral
+22,Male,Undergraduate,5.8,YouTube,Yes,7.2,6.0,Neutral
+22,Female,Undergraduate,7.2,YouTube,Yes,4.6,5.4,Negative
+23,Male,Undergraduate,4.0,Snapchat,No,7.2,6.2,Neutral
+20,Female,Undergraduate,3.3,LinkedIn,No,7.5,8.3,Positive
+22,Male,High School,6.1,Snapchat,Yes,4.5,5.8,Negative
+18,Female,High School,6.8,Facebook,No,4.8,4.2,Negative
+24,Male,Undergraduate,3.4,Snapchat,No,7.1,8.3,Positive
+24,Female,High School,7.7,Instagram,Yes,4.8,4.8,Negative
+23,Female,High School,7.6,Instagram,Yes,4.7,5.6,Negative
+24,Female,Graduate,4.7,Snapchat,No,6.6,6.8,Neutral
+20,Male,Graduate,4.9,Facebook,Yes,7.4,6.1,Neutral
+23,Male,Undergraduate,8.0,LinkedIn,Yes,4.9,5.9,Negative
+24,Male,Graduate,7.2,YouTube,No,5.9,5.9,Negative
+22,Female,High School,1.7,LinkedIn,No,7.9,8.3,Positive
+24,Female,High School,4.6,TikTok,No,6.8,6.5,Neutral
+18,Male,High School,4.4,Facebook,Yes,6.5,6.5,Neutral
+24,Female,High School,3.7,TikTok,No,8.8,8.8,Positive
+18,Female,High School,1.8,YouTube,No,7.9,8.0,Positive
+23,Female,High School,7.7,YouTube,No,4.9,5.8,Negative
+18,Male,Graduate,4.5,Facebook,Yes,7.2,6.5,Neutral
+22,Male,High School,8.1,Facebook,Yes,5.2,5.5,Negative
+23,Male,Undergraduate,3.5,YouTube,No,7.8,7.2,Positive
+21,Female,Undergraduate,3.4,Instagram,No,7.0,7.3,Positive
+20,Male,High School,4.0,TikTok,Yes,7.1,7.3,Positive
+24,Male,Graduate,3.8,TikTok,Yes,6.0,6.1,Neutral
+23,Male,Graduate,3.8,Twitter,Yes,6.6,6.7,Neutral
+18,Male,Undergraduate,5.6,Twitter,No,6.9,6.0,Neutral
+23,Female,Undergraduate,4.3,Instagram,No,6.4,6.5,Neutral
+22,Female,Undergraduate,4.1,Snapchat,No,6.1,6.2,Neutral
+21,Female,Undergraduate,2.5,YouTube,No,7.2,7.0,Positive
+23,Male,High School,4.5,LinkedIn,Yes,6.2,6.4,Neutral
+22,Female,High School,7.7,Facebook,No,5.8,5.5,Negative
+24,Male,Graduate,5.2,Facebook,Yes,7.3,6.1,Neutral
+22,Female,High School,8.0,Facebook,Yes,5.1,4.9,Negative
+23,Male,Undergraduate,6.9,Snapchat,Yes,5.7,5.7,Negative
+20,Male,High School,4.3,LinkedIn,No,6.6,6.7,Neutral
+20,Male,High School,3.5,YouTube,No,8.3,8.2,Positive
+21,Male,Undergraduate,7.6,LinkedIn,Yes,6.0,4.5,Negative
+19,Female,Graduate,6.1,LinkedIn,Yes,5.8,4.1,Negative
+19,Male,Graduate,7.0,YouTube,Yes,5.4,5.9,Negative
+18,Male,Undergraduate,6.0,YouTube,Yes,5.9,4.1,Negative
+24,Male,High School,7.0,LinkedIn,Yes,5.0,4.5,Negative
+23,Female,Graduate,2.7,Instagram,No,7.8,8.8,Positive
+21,Male,High School,3.9,Snapchat,No,7.1,7.5,Positive
+19,Female,Graduate,5.5,Twitter,Yes,5.4,5.2,Negative
+22,Male,Graduate,1.9,Facebook,No,8.4,8.5,Positive
+23,Female,Undergraduate,1.8,LinkedIn,No,8.2,7.2,Positive
+23,Male,High School,4.9,Facebook,Yes,6.3,6.1,Neutral
+20,Male,Undergraduate,4.3,LinkedIn,Yes,6.2,6.2,Neutral
+19,Female,High School,2.9,YouTube,Yes,7.1,8.8,Positive
+22,Female,Graduate,7.2,Facebook,Yes,5.4,5.7,Negative
+22,Male,Undergraduate,7.9,LinkedIn,Yes,4.7,4.1,Negative
+19,Female,Undergraduate,2.5,Instagram,No,8.3,7.2,Positive
+21,Female,Graduate,3.8,LinkedIn,No,7.4,7.3,Positive
+20,Female,Undergraduate,5.8,Snapchat,Yes,7.2,6.1,Neutral
+20,Male,Undergraduate,5.9,Facebook,Yes,5.8,4.7,Negative
+22,Male,High School,2.6,Instagram,No,7.5,8.8,Positive
+18,Female,Graduate,5.2,Twitter,Yes,6.8,6.9,Neutral
+21,Male,High School,1.7,Snapchat,No,8.5,7.7,Positive
+20,Male,Graduate,2.8,Twitter,No,7.0,7.8,Positive
+19,Male,Graduate,3.8,Facebook,No,7.4,8.8,Positive
+24,Male,High School,5.1,LinkedIn,Yes,6.5,6.8,Neutral
+23,Male,Graduate,3.7,Instagram,Yes,6.5,6.9,Neutral
+23,Female,Undergraduate,1.5,Snapchat,No,7.2,7.7,Positive
+18,Female,Graduate,3.5,Facebook,No,7.9,8.5,Positive
+23,Male,Graduate,3.8,Facebook,No,6.5,6.4,Neutral
+21,Female,Undergraduate,4.1,YouTube,No,6.2,6.6,Neutral
+21,Female,High School,5.4,Snapchat,Yes,6.3,6.5,Neutral
+21,Female,Graduate,6.7,YouTube,Yes,5.5,4.9,Negative
+21,Male,High School,7.4,Facebook,Yes,5.3,5.5,Negative
+24,Male,Undergraduate,3.8,Facebook,No,6.3,6.8,Neutral
+19,Male,Graduate,7.4,LinkedIn,Yes,5.7,5.7,Negative
+22,Female,Undergraduate,2.0,LinkedIn,No,7.5,8.3,Positive
+22,Male,Graduate,7.3,Facebook,Yes,5.8,5.3,Negative
+24,Female,High School,5.8,Facebook,Yes,5.5,4.1,Negative
+22,Female,Undergraduate,7.2,Snapchat,Yes,5.1,4.6,Negative
+24,Female,Graduate,3.6,LinkedIn,No,8.4,7.6,Positive
+21,Female,High School,7.6,TikTok,Yes,5.2,4.1,Negative
+22,Female,Undergraduate,3.8,TikTok,No,7.4,6.8,Neutral
+21,Male,Undergraduate,6.1,Twitter,Yes,5.8,4.4,Negative
+20,Female,Graduate,2.9,TikTok,No,7.5,7.9,Positive
+24,Female,High School,3.7,Instagram,Yes,8.8,9.0,Positive
+21,Female,Undergraduate,7.0,Facebook,Yes,5.9,4.1,Negative
+22,Female,Undergraduate,3.9,Instagram,No,7.7,8.3,Positive
+19,Male,High School,6.0,YouTube,Yes,5.6,4.2,Negative
+18,Male,Undergraduate,2.3,TikTok,No,8.0,7.2,Positive
+22,Female,Undergraduate,2.3,TikTok,Yes,8.0,8.5,Positive
+19,Male,High School,3.5,Twitter,Yes,6.0,7.0,Neutral
+22,Male,High School,7.8,Instagram,No,6.0,5.3,Negative
+19,Male,Undergraduate,7.4,Instagram,Yes,5.2,4.7,Negative
+20,Female,Undergraduate,3.2,LinkedIn,No,8.9,7.5,Positive
+23,Male,Graduate,5.8,Twitter,Yes,4.8,5.0,Negative
+21,Female,Undergraduate,6.9,Instagram,Yes,5.7,4.6,Negative
+22,Male,High School,2.6,Twitter,No,8.2,7.2,Positive
+20,Male,Undergraduate,2.3,YouTube,No,7.2,7.4,Positive
+23,Male,Graduate,5.5,Instagram,Yes,5.9,4.3,Negative
+24,Male,Graduate,4.0,Snapchat,No,8.6,8.6,Positive
+19,Male,Undergraduate,6.2,LinkedIn,No,4.7,4.3,Negative
+18,Male,Graduate,4.7,Snapchat,No,6.1,6.6,Neutral
+20,Female,Graduate,3.7,YouTube,No,8.6,8.4,Positive
+19,Female,Undergraduate,6.0,LinkedIn,No,6.0,5.8,Negative
+24,Male,Graduate,7.8,TikTok,Yes,5.0,4.8,Negative
+20,Male,Graduate,3.9,Instagram,No,6.6,6.8,Neutral
+19,Female,Undergraduate,7.2,YouTube,Yes,5.9,5.0,Negative
+21,Female,High School,6.2,Twitter,No,5.4,5.4,Negative
+21,Female,Undergraduate,7.7,Twitter,Yes,5.6,4.5,Negative
+22,Male,High School,4.0,Twitter,No,7.6,8.6,Positive
+22,Female,Undergraduate,4.2,LinkedIn,No,6.8,6.5,Neutral
+24,Female,Graduate,3.9,LinkedIn,No,7.2,6.7,Neutral
+21,Male,High School,4.7,TikTok,Yes,6.2,6.3,Neutral
+23,Male,High School,7.3,Snapchat,No,5.0,5.8,Negative
+23,Female,High School,6.4,TikTok,No,5.3,4.9,Negative
+20,Female,Graduate,3.3,YouTube,No,7.4,7.1,Positive
+19,Female,Graduate,6.7,Twitter,Yes,6.0,4.6,Negative
+21,Male,High School,7.6,Facebook,Yes,5.1,4.3,Negative
+23,Male,High School,4.5,Instagram,Yes,6.6,6.3,Neutral
+19,Male,Graduate,3.0,YouTube,No,7.1,8.3,Positive
+21,Female,High School,6.2,Facebook,No,5.1,4.6,Negative
+18,Female,High School,6.6,Instagram,Yes,5.4,5.4,Negative
+23,Male,Graduate,8.4,Twitter,Yes,4.6,5.6,Negative
+23,Female,Undergraduate,7.0,Snapchat,Yes,5.6,5.9,Negative
+23,Female,High School,7.9,Snapchat,Yes,5.8,5.1,Negative
+24,Female,Graduate,3.6,Facebook,No,8.4,8.9,Positive
+24,Male,Undergraduate,5.5,Snapchat,Yes,4.6,5.1,Negative
+21,Male,Graduate,2.0,Instagram,No,7.1,7.7,Positive
+19,Male,High School,5.8,Facebook,Yes,7.4,6.2,Neutral
+18,Female,Graduate,6.3,YouTube,Yes,5.5,4.2,Negative
+19,Male,Undergraduate,3.2,LinkedIn,No,9.0,8.3,Positive
+24,Female,High School,1.7,YouTube,No,8.5,8.8,Positive
+18,Female,Graduate,7.0,Snapchat,Yes,4.8,4.4,Negative
+22,Male,Undergraduate,4.8,Snapchat,No,6.4,6.4,Neutral
+24,Female,Undergraduate,6.4,Facebook,No,5.0,4.5,Negative
+23,Male,Undergraduate,1.8,TikTok,Yes,8.7,7.5,Positive
+18,Male,Graduate,7.0,Twitter,Yes,5.1,4.8,Negative
+22,Male,High School,2.6,YouTube,No,7.7,8.4,Positive
+21,Female,High School,1.7,Twitter,No,7.3,8.0,Positive
+20,Male,Graduate,5.0,Instagram,No,7.0,6.8,Neutral
+23,Male,Undergraduate,6.0,Instagram,Yes,5.4,5.1,Negative
+19,Female,Undergraduate,8.3,YouTube,No,5.9,4.7,Negative
+21,Male,High School,3.7,LinkedIn,No,7.0,8.5,Positive
+18,Female,Graduate,8.4,Snapchat,Yes,5.5,5.6,Negative
+19,Female,Undergraduate,5.5,Twitter,No,5.1,5.3,Negative
+21,Male,Graduate,8.0,YouTube,Yes,5.0,4.6,Negative
+22,Male,Undergraduate,2.2,YouTube,No,8.6,8.6,Positive
+22,Female,Undergraduate,7.2,Twitter,Yes,5.9,5.3,Negative
+18,Male,Graduate,5.9,Instagram,Yes,5.6,4.5,Negative
+24,Male,Undergraduate,7.0,Instagram,Yes,5.8,5.1,Negative
+18,Female,Graduate,1.9,YouTube,No,7.7,7.8,Positive
+20,Male,Graduate,6.0,YouTube,Yes,5.3,5.0,Negative
+18,Male,High School,5.3,Snapchat,No,6.3,6.6,Neutral
+18,Male,Undergraduate,7.1,Snapchat,No,4.6,5.2,Negative
+22,Female,Graduate,6.2,YouTube,Yes,5.6,4.6,Negative
+19,Female,Undergraduate,5.2,Instagram,Yes,6.5,6.0,Negative
+22,Male,Graduate,2.1,Twitter,No,7.5,8.0,Neutral
+20,Female,Undergraduate,6.0,TikTok,Yes,5.0,5.0,Negative
+18,Male,High School,3.0,YouTube,No,7.0,7.0,Positive
+21,Male,Graduate,4.5,Facebook,Yes,6.0,6.0,Negative
+19,Female,Undergraduate,7.2,Instagram,Yes,4.5,4.0,Negative
+23,Male,Graduate,1.5,LinkedIn,No,8.0,9.0,Neutral
+20,Female,Undergraduate,5.8,Snapchat,Yes,6.0,6.0,Negative
+18,Male,High School,4.0,TikTok,No,6.5,7.0,Positive
+21,Female,Graduate,3.3,Instagram,No,7.0,7.0,Positive
+19,Male,Undergraduate,4.8,Snapchat,Yes,6.2,5.0,Negative
+20,Female,Undergraduate,5.5,TikTok,Yes,5.8,6.0,Negative
+22,Male,Graduate,2.8,LinkedIn,No,7.2,8.0,Positive
+18,Female,High School,6.5,Instagram,Yes,5.5,5.0,Negative
+21,Male,Undergraduate,3.7,YouTube,No,6.8,7.0,Positive
+20,Female,Undergraduate,4.2,TikTok,Yes,6.0,6.0,Negative
+24,Male,Graduate,2.0,LinkedIn,No,7.8,8.0,Neutral
+19,Female,High School,5.0,Instagram,Yes,5.7,5.0,Negative
+21,Male,Undergraduate,3.5,Facebook,No,6.7,7.0,Positive
+20,Female,Undergraduate,4.7,Snapchat,Yes,5.9,6.0,Negative
+18,Male,High School,5.3,TikTok,Yes,5.5,5.0,Negative
+23,Female,Graduate,2.5,LinkedIn,No,7.3,8.0,Positive
+19,Male,Undergraduate,4.9,Instagram,Yes,5.8,6.0,Negative
+20,Female,Undergraduate,5.7,TikTok,Yes,5.4,5.0,Negative
+22,Male,Graduate,3.2,Facebook,No,6.9,7.0,Positive
+19,Female,High School,6.1,Instagram,Yes,5.2,5.0,Negative
+21,Male,Undergraduate,3.8,YouTube,No,6.6,7.0,Positive
+20,Female,Undergraduate,4.4,TikTok,Yes,5.9,6.0,Negative
+24,Male,Graduate,2.2,LinkedIn,No,7.4,8.0,Neutral
+19,Female,High School,5.9,Instagram,Yes,5.3,5.0,Negative
+21,Male,Undergraduate,3.6,Facebook,No,6.7,7.0,Positive
+20,Female,Undergraduate,4.8,Snapchat,Yes,5.7,6.0,Negative
+18,Male,High School,5.4,TikTok,Yes,5.4,5.0,Negative
+23,Female,Graduate,2.6,LinkedIn,No,7.2,8.0,Positive
+19,Male,Undergraduate,4.7,Instagram,Yes,5.8,6.0,Negative
+20,Female,Undergraduate,5.6,TikTok,Yes,5.5,5.0,Negative
+22,Male,Graduate,3.1,Facebook,No,6.8,7.0,Positive
+19,Female,High School,6.2,Instagram,Yes,5.1,5.0,Negative
+21,Male,Undergraduate,3.9,YouTube,No,6.5,7.0,Negative
+20,Female,Undergraduate,4.5,TikTok,Yes,5.8,6.0,Negative
+24,Male,Graduate,2.3,LinkedIn,No,7.3,8.0,Positive
+19,Female,High School,5.8,Instagram,Yes,5.4,5.0,Negative
+21,Male,Undergraduate,3.7,Facebook,No,6.6,7.0,Positive
+20,Female,Undergraduate,4.6,Snapchat,Yes,5.7,6.0,Negative
+18,Male,High School,5.5,TikTok,Yes,5.3,5.0,Negative
+23,Female,Graduate,2.7,LinkedIn,No,7.1,8.0,Positive
+19,Male,Undergraduate,4.8,Instagram,Yes,5.9,6.0,Negative
+20,Female,Undergraduate,5.5,TikTok,Yes,5.6,5.0,Negative
+22,Male,Graduate,3.3,Facebook,No,6.7,7.0,Positive
+19,Female,High School,6.3,Instagram,Yes,5.2,5.0,Negative
+21,Male,Undergraduate,3.8,YouTube,No,6.4,7.0,Negative
+20,Female,Undergraduate,4.7,TikTok,Yes,5.8,6.0,Negative
+24,Male,Graduate,2.4,LinkedIn,No,7.2,8.0,Positive
+19,Female,High School,5.7,Instagram,Yes,5.5,5.0,Negative
+21,Male,Undergraduate,3.6,Facebook,No,6.5,7.0,Positive
+20,Female,Undergraduate,4.9,Snapchat,Yes,5.6,6.0,Negative
+18,Male,High School,5.6,TikTok,Yes,5.2,5.0,Negative
+23,Female,Graduate,2.8,LinkedIn,No,7.0,8.0,Positive
+19,Male,Undergraduate,4.6,Instagram,Yes,5.9,6.0,Negative
+20,Female,Undergraduate,5.4,TikTok,Yes,5.7,5.0,Negative
+22,Male,Graduate,3.1,Facebook,No,7.1,7.0,Positive
+19,Female,Undergraduate,5.6,Instagram,Yes,5.6,5.0,Negative
+20,Male,Undergraduate,4.2,TikTok,Yes,6.0,6.0,Negative
+18,Female,High School,6.1,Snapchat,Yes,5.2,4.0,Negative
+23,Male,Graduate,2.3,LinkedIn,No,7.4,8.0,Neutral
+21,Female,Undergraduate,4.8,Instagram,Yes,5.8,6.0,Negative
+20,Male,Undergraduate,3.9,YouTube,No,6.5,7.0,Negative
+19,Female,High School,5.7,TikTok,Yes,5.4,5.0,Negative
+22,Male,Graduate,2.8,LinkedIn,No,7.2,8.0,Positive
+20,Female,Undergraduate,4.5,Instagram,Yes,5.9,6.0,Negative
+18,Male,High School,5.4,Snapchat,Yes,5.5,5.0,Negative
+21,Female,Graduate,3.2,Facebook,No,6.8,7.0,Positive
+19,Male,Undergraduate,4.9,TikTok,Yes,5.7,6.0,Negative
+20,Female,Undergraduate,5.8,Instagram,Yes,5.3,5.0,Negative
+23,Male,Graduate,2.5,LinkedIn,No,7.3,8.0,Positive
+21,Female,Undergraduate,4.6,Snapchat,Yes,5.8,6.0,Negative
+19,Male,High School,5.5,TikTok,Yes,5.4,5.0,Negative
+22,Female,Graduate,2.9,Facebook,No,7.0,7.0,Positive
+20,Male,Undergraduate,4.7,YouTube,Yes,5.9,6.0,Negative
+18,Female,High School,5.9,Instagram,Yes,5.2,5.0,Negative
+21,Male,Graduate,3.0,LinkedIn,No,7.1,8.0,Positive
+19,Female,Undergraduate,4.8,TikTok,Yes,5.7,6.0,Negative
+20,Male,Undergraduate,3.8,Facebook,No,6.6,7.0,Negative
+22,Female,Graduate,2.7,LinkedIn,No,7.2,8.0,Positive
+18,Male,High School,5.6,Snapchat,Yes,5.3,5.0,Negative
+21,Female,Undergraduate,4.5,Instagram,Yes,5.8,6.0,Negative
+19,Male,High School,5.3,TikTok,Yes,5.5,5.0,Negative
+23,Female,Graduate,2.6,LinkedIn,No,7.3,8.0,Positive
+20,Male,Undergraduate,4.4,YouTube,Yes,6.0,6.0,Negative
+18,Female,High School,5.8,Instagram,Yes,5.2,5.0,Negative
+22,Male,Graduate,2.9,Facebook,No,7.0,7.0,Positive
+19,Female,Undergraduate,4.7,TikTok,Yes,5.8,6.0,Negative
+21,Male,Undergraduate,3.7,Snapchat,No,6.5,7.0,Negative
+20,Female,High School,5.5,Instagram,Yes,5.4,5.0,Negative
+23,Male,Graduate,2.4,LinkedIn,No,7.4,8.0,Positive
+19,Female,Undergraduate,4.9,TikTok,Yes,5.7,6.0,Negative
+18,Male,High School,5.7,Snapchat,Yes,5.3,5.0,Negative
+22,Female,Graduate,2.8,LinkedIn,No,7.1,8.0,Positive
+20,Male,Undergraduate,4.6,Instagram,Yes,5.9,6.0,Negative
+21,Female,Undergraduate,5.4,TikTok,Yes,5.5,5.0,Negative
+19,Male,High School,5.8,YouTube,Yes,5.2,5.0,Negative
+23,Female,Graduate,2.5,LinkedIn,No,7.3,8.0,Positive
+20,Male,Undergraduate,4.7,Facebook,Yes,5.8,6.0,Negative
+18,Female,High School,5.6,Instagram,Yes,5.4,5.0,Negative
+22,Male,Graduate,2.9,LinkedIn,No,7.0,7.0,Positive
+19,Female,Undergraduate,4.8,TikTok,Yes,5.7,6.0,Negative
+21,Male,Undergraduate,3.8,YouTube,No,6.6,7.0,Negative
+20,Female,High School,5.5,Snapchat,Yes,5.5,5.0,Negative
+23,Male,Graduate,2.6,LinkedIn,No,7.2,8.0,Positive
+19,Female,Undergraduate,4.9,Instagram,Yes,5.8,6.0,Negative
+20,Male,Undergraduate,6.1,Instagram,Yes,6.2,5.0,Negative
+21,Female,Undergraduate,5.8,TikTok,Yes,5.9,6.0,Negative
+19,Male,Undergraduate,4.9,Facebook,No,7.1,7.0,Positive
+22,Female,Graduate,5.5,Instagram,Yes,6.0,5.0,Negative
+20,Male,Undergraduate,5.2,TikTok,Yes,6.3,6.0,Negative
+19,Female,Undergraduate,4.8,Instagram,No,7.2,8.0,Positive
+21,Male,Graduate,6.0,Facebook,Yes,5.8,5.0,Negative
+20,Female,Undergraduate,5.7,Instagram,Yes,6.1,6.0,Negative
+22,Male,Graduate,4.7,TikTok,No,7.3,7.0,Positive
+19,Female,Undergraduate,5.4,Instagram,Yes,6.2,5.0,Negative
+20,Male,Undergraduate,5.9,Facebook,Yes,5.9,6.0,Negative
+21,Female,Graduate,4.6,Instagram,No,7.4,8.0,Positive
+19,Male,Undergraduate,5.3,TikTok,Yes,6.3,5.0,Negative
+22,Female,Graduate,5.8,Instagram,Yes,5.8,6.0,Negative
+20,Male,Undergraduate,4.5,Facebook,No,7.5,7.0,Positive
+21,Female,Graduate,5.2,Instagram,Yes,6.4,5.0,Negative
+19,Male,Undergraduate,5.7,TikTok,Yes,5.7,6.0,Negative
+20,Female,Undergraduate,4.4,Instagram,No,7.6,8.0,Positive
+22,Male,Graduate,5.1,Facebook,Yes,6.5,5.0,Negative
+21,Female,Graduate,5.6,Instagram,Yes,5.6,6.0,Negative
+19,Male,Undergraduate,4.3,TikTok,No,7.7,7.0,Positive
+20,Female,Undergraduate,5.0,Instagram,Yes,6.6,5.0,Negative
+22,Male,Graduate,5.5,Facebook,Yes,5.5,6.0,Negative
+21,Female,Graduate,4.2,Instagram,No,7.8,8.0,Positive
+19,Male,Undergraduate,4.9,TikTok,Yes,6.7,5.0,Negative
+20,Female,Undergraduate,5.4,Instagram,Yes,5.4,6.0,Negative
+22,Male,Graduate,4.1,Facebook,No,7.9,7.0,Positive
+21,Female,Graduate,4.8,Instagram,Yes,6.8,5.0,Negative
+19,Male,Undergraduate,5.3,TikTok,Yes,5.3,6.0,Negative
+20,Female,Undergraduate,4.0,Instagram,No,8.0,8.0,Positive
+22,Male,Graduate,4.7,Facebook,Yes,6.9,5.0,Negative
+21,Female,Graduate,5.2,Instagram,Yes,5.2,6.0,Negative
+19,Male,Undergraduate,3.9,TikTok,No,8.1,7.0,Positive
+20,Female,Undergraduate,4.6,Instagram,Yes,7.0,5.0,Negative
+22,Male,Graduate,5.1,Facebook,Yes,5.1,6.0,Negative
+21,Female,Graduate,3.8,Instagram,No,8.2,8.0,Positive
+19,Male,Undergraduate,4.5,TikTok,Yes,7.1,5.0,Negative
+20,Female,Undergraduate,5.0,Instagram,Yes,5.0,6.0,Negative
+22,Male,Graduate,3.7,Facebook,No,8.3,7.0,Positive
+21,Female,Graduate,4.4,Instagram,Yes,7.2,5.0,Negative
+19,Male,Undergraduate,4.9,TikTok,Yes,4.9,6.0,Negative
+20,Female,Undergraduate,3.6,Instagram,No,8.4,8.0,Positive
+22,Male,Graduate,4.3,Facebook,Yes,7.3,5.0,Negative
+21,Female,Graduate,4.8,Instagram,Yes,4.8,6.0,Negative
+19,Male,Undergraduate,3.5,TikTok,No,8.5,7.0,Positive
+20,Female,Undergraduate,4.2,Instagram,Yes,7.4,5.0,Negative
+22,Male,Graduate,4.7,Facebook,Yes,4.7,6.0,Negative
+21,Female,Graduate,3.4,Instagram,No,8.6,8.0,Positive
+19,Male,Undergraduate,4.1,TikTok,Yes,7.5,5.0,Negative
+20,Female,Undergraduate,4.6,Instagram,Yes,4.6,6.0,Negative
+19,Female,Undergraduate,5.3,Instagram,Yes,6.1,5.0,Negative
+21,Male,Graduate,4.8,Facebook,No,7.2,7.0,Negative
+20,Female,Undergraduate,5.5,TikTok,Yes,5.9,6.0,Negative
+22,Male,Graduate,4.7,Instagram,Yes,6.3,5.0,Negative
+19,Female,Undergraduate,5.1,Facebook,No,7.0,7.0,Positive
+21,Male,Graduate,5.4,TikTok,Yes,6.0,6.0,Negative
+20,Female,Undergraduate,4.9,Instagram,Yes,6.4,5.0,Negative
+22,Male,Graduate,5.2,Facebook,No,7.1,7.0,Negative
+19,Female,Undergraduate,5.6,TikTok,Yes,5.8,6.0,Negative
+21,Male,Graduate,4.6,Instagram,Yes,6.5,5.0,Negative
+20,Female,Undergraduate,5.0,Facebook,No,7.3,7.0,Positive
+22,Male,Graduate,5.3,TikTok,Yes,5.7,6.0,Negative
+19,Female,Undergraduate,4.8,Instagram,Yes,6.6,5.0,Negative
+21,Male,Graduate,5.1,Facebook,No,7.4,7.0,Negative
+20,Female,Undergraduate,5.7,TikTok,Yes,5.6,6.0,Negative
+22,Male,Graduate,4.5,Instagram,Yes,6.7,5.0,Negative
+19,Female,Undergraduate,4.9,Facebook,No,7.5,7.0,Positive
+21,Male,Graduate,5.2,TikTok,Yes,5.5,6.0,Negative
+20,Female,Undergraduate,4.7,Instagram,Yes,6.8,5.0,Negative
+22,Male,Graduate,5.0,Facebook,No,7.6,7.0,Negative
+19,Female,Undergraduate,5.8,TikTok,Yes,5.4,6.0,Negative
+21,Male,Graduate,4.4,Instagram,Yes,6.9,5.0,Negative
+20,Female,Undergraduate,4.8,Facebook,No,7.7,7.0,Positive
+22,Male,Graduate,5.1,TikTok,Yes,5.3,6.0,Negative
+19,Female,Undergraduate,4.6,Instagram,Yes,7.0,5.0,Negative
+21,Male,Graduate,4.9,Facebook,No,7.8,7.0,Negative
+20,Female,Undergraduate,5.9,TikTok,Yes,5.2,6.0,Negative
+22,Male,Graduate,4.3,Instagram,Yes,7.1,5.0,Negative
+19,Female,Undergraduate,4.7,Facebook,No,7.9,7.0,Positive
+21,Male,Graduate,5.0,TikTok,Yes,5.1,6.0,Negative
+20,Female,Undergraduate,4.5,Instagram,Yes,7.2,5.0,Negative
+22,Male,Graduate,4.8,Facebook,No,8.0,7.0,Negative
+19,Female,Undergraduate,6.0,TikTok,Yes,5.0,6.0,Negative
+21,Male,Graduate,4.2,Instagram,Yes,7.3,5.0,Negative
+20,Female,Undergraduate,4.6,Facebook,No,8.1,7.0,Positive
+22,Male,Graduate,4.9,TikTok,Yes,4.9,6.0,Negative
+19,Female,Undergraduate,4.4,Instagram,Yes,7.4,5.0,Negative
+21,Male,Graduate,4.7,Facebook,No,8.2,7.0,Negative
+20,Female,Undergraduate,6.1,TikTok,Yes,4.8,6.0,Negative
+22,Male,Graduate,4.1,Instagram,Yes,7.5,5.0,Negative
+19,Female,Undergraduate,4.5,Facebook,No,8.3,7.0,Positive
+21,Male,Graduate,4.8,TikTok,Yes,4.7,6.0,Negative
+20,Female,Undergraduate,4.3,Instagram,Yes,7.6,5.0,Negative
+22,Male,Graduate,4.6,Facebook,No,8.4,7.0,Negative
+19,Female,Undergraduate,6.2,TikTok,Yes,4.6,6.0,Negative
+21,Male,Graduate,4.0,Instagram,Yes,7.7,5.0,Negative
+20,Female,Undergraduate,4.4,Facebook,No,8.5,7.0,Positive
+22,Male,Graduate,4.7,TikTok,Yes,4.5,6.0,Negative
+19,Female,Undergraduate,4.2,Instagram,Yes,7.8,5.0,Negative
+21,Male,Graduate,4.5,Facebook,No,8.6,7.0,Negative
+20,Female,Undergraduate,6.3,TikTok,Yes,4.4,6.0,Negative
+22,Male,Graduate,3.9,Instagram,Yes,7.9,5.0,Negative
+19,Female,Undergraduate,4.3,Facebook,No,8.7,7.0,Positive
+21,Male,Graduate,4.6,TikTok,Yes,4.3,6.0,Negative
+20,Female,Undergraduate,4.1,Instagram,Yes,8.0,5.0,Negative
+22,Male,Graduate,4.4,Facebook,No,8.8,7.0,Negative
+19,Female,Undergraduate,6.4,TikTok,Yes,4.2,6.0,Negative
+21,Male,Graduate,3.8,Instagram,Yes,8.1,5.0,Negative
+20,Female,Undergraduate,4.2,Facebook,No,8.9,7.0,Positive
+22,Male,Graduate,4.5,TikTok,Yes,4.1,6.0,Negative
+19,Female,Undergraduate,6.5,Instagram,Yes,6.0,5.0,Negative
+21,Male,Graduate,5.8,TikTok,Yes,6.5,6.0,Negative
+20,Female,Undergraduate,4.5,Instagram,No,7.5,8.0,Positive
+22,Male,Graduate,4.2,Facebook,No,7.8,7.0,Positive
+19,Female,Undergraduate,3.8,LINE,No,7.9,8.0,Neutral
+21,Male,Graduate,5.5,Instagram,Yes,6.8,6.0,Negative
+20,Female,Undergraduate,5.2,KakaoTalk,Yes,6.5,6.0,Negative
+22,Male,Graduate,4.8,VKontakte,No,7.2,7.0,Positive
+19,Female,Undergraduate,7.0,TikTok,Yes,5.8,4.0,Negative
+21,Male,Graduate,5.5,Instagram,Yes,6.7,6.0,Negative
+20,Female,Undergraduate,4.7,Facebook,No,7.4,7.0,Positive
+22,Male,Graduate,4.0,Instagram,No,7.9,8.0,Positive
+19,Female,Undergraduate,3.5,LINE,No,8.0,8.0,Neutral
+21,Male,Graduate,5.7,TikTok,Yes,6.5,5.0,Negative
+20,Female,Undergraduate,5.0,KakaoTalk,Yes,6.8,6.0,Negative
+22,Male,Graduate,4.5,VKontakte,No,7.4,7.0,Positive
+19,Female,Undergraduate,6.8,Instagram,Yes,5.9,4.0,Negative
+21,Male,Graduate,5.6,Facebook,Yes,6.6,6.0,Negative
+20,Female,Undergraduate,4.6,Instagram,No,7.3,7.0,Positive
+22,Male,Graduate,4.1,Facebook,No,7.7,8.0,Positive
+19,Female,Undergraduate,3.7,LINE,No,7.8,8.0,Neutral
+21,Male,Graduate,5.4,Instagram,Yes,6.7,5.0,Negative
+20,Female,Undergraduate,5.1,KakaoTalk,Yes,6.6,6.0,Negative
+22,Male,Graduate,4.7,VKontakte,No,7.3,7.0,Positive
+19,Female,Undergraduate,6.9,TikTok,Yes,5.7,4.0,Negative
+21,Male,Graduate,5.7,Instagram,Yes,6.4,6.0,Negative
+20,Female,Undergraduate,4.8,Facebook,No,7.2,7.0,Positive
+22,Male,Graduate,3.9,Instagram,No,7.8,8.0,Positive
+19,Female,Undergraduate,3.6,LINE,No,8.1,8.0,Neutral
+21,Male,Graduate,5.6,TikTok,Yes,6.6,5.0,Negative
+20,Female,Undergraduate,4.9,KakaoTalk,Yes,6.9,6.0,Negative
+22,Male,Graduate,4.6,VKontakte,No,7.5,7.0,Positive
+19,Female,Undergraduate,6.7,Instagram,Yes,5.8,4.0,Negative
+21,Male,Graduate,5.4,Facebook,Yes,6.5,6.0,Negative
+20,Female,Undergraduate,4.4,Instagram,No,7.4,7.0,Positive
+22,Male,Graduate,4.0,Facebook,No,7.6,8.0,Positive
+19,Female,Undergraduate,3.4,LINE,No,8.2,8.0,Neutral
+21,Male,Graduate,5.3,Instagram,Yes,6.8,5.0,Negative
+20,Female,Undergraduate,5.0,KakaoTalk,Yes,6.7,6.0,Negative
+22,Male,Graduate,4.4,VKontakte,No,7.6,7.0,Positive
+19,Female,Undergraduate,6.6,TikTok,Yes,5.6,4.0,Negative
+21,Male,Graduate,5.3,Instagram,Yes,6.3,6.0,Negative
+20,Female,Undergraduate,4.3,Facebook,No,7.5,7.0,Positive
+22,Male,Graduate,3.8,Instagram,No,7.7,8.0,Positive
+19,Female,Undergraduate,3.3,LINE,No,8.3,8.0,Neutral
+21,Male,Graduate,5.2,TikTok,Yes,6.9,5.0,Negative
+20,Female,Undergraduate,4.8,KakaoTalk,Yes,7.0,6.0,Negative
+22,Male,Graduate,4.3,VKontakte,No,7.7,7.0,Positive
+19,Female,Undergraduate,6.4,Instagram,Yes,5.7,4.0,Negative
+21,Male,Graduate,5.2,Facebook,Yes,6.4,6.0,Negative
+20,Female,Undergraduate,4.5,Instagram,No,7.3,7.0,Positive
+22,Male,Graduate,3.7,Facebook,No,7.8,8.0,Positive
+19,Female,Undergraduate,3.2,LINE,No,8.4,8.0,Neutral
+21,Male,Graduate,5.4,Instagram,Yes,6.7,5.0,Negative
+20,Female,Undergraduate,4.7,KakaoTalk,Yes,7.1,6.0,Negative
+22,Male,Graduate,4.2,VKontakte,No,7.8,7.0,Positive
+19,Female,Undergraduate,6.6,TikTok,Yes,5.5,4.0,Negative
+21,Male,Graduate,5.1,Instagram,Yes,6.5,6.0,Negative
+20,Female,Undergraduate,4.4,Facebook,No,7.4,7.0,Positive
+22,Male,Graduate,3.6,Instagram,No,7.9,8.0,Positive
+19,Female,Undergraduate,3.1,LINE,No,8.5,8.0,Neutral
+21,Male,Graduate,5.3,TikTok,Yes,6.8,5.0,Negative
+20,Female,Undergraduate,4.6,KakaoTalk,Yes,7.2,6.0,Negative
+22,Male,Graduate,4.1,VKontakte,No,7.9,7.0,Positive
+19,Female,Undergraduate,6.7,Instagram,Yes,5.4,4.0,Negative
+21,Male,Graduate,5.0,Facebook,Yes,6.6,6.0,Negative
+20,Female,Undergraduate,4.3,Instagram,No,7.5,7.0,Positive
+22,Male,Graduate,3.5,Facebook,No,8.0,8.0,Positive
+19,Female,Undergraduate,3.0,LINE,No,8.6,8.0,Neutral
+21,Male,Graduate,5.2,Instagram,Yes,6.9,5.0,Negative
+20,Female,Undergraduate,4.5,KakaoTalk,Yes,7.3,6.0,Negative
+22,Male,Graduate,4.0,VKontakte,No,8.0,7.0,Positive
+19,Female,Undergraduate,6.8,TikTok,Yes,5.3,4.0,Negative
+21,Male,Graduate,4.9,Instagram,Yes,6.7,6.0,Negative
+20,Female,Undergraduate,4.2,Facebook,No,7.6,7.0,Positive
+22,Male,Graduate,3.4,Instagram,No,8.1,8.0,Positive
+19,Female,Undergraduate,2.9,LINE,No,8.7,8.0,Neutral
+21,Male,Graduate,5.1,TikTok,Yes,7.0,5.0,Negative
+20,Female,Undergraduate,4.4,KakaoTalk,Yes,7.4,6.0,Negative
+22,Male,Graduate,3.9,VKontakte,No,8.1,7.0,Positive
+19,Female,Undergraduate,6.9,Instagram,Yes,5.2,4.0,Negative
+21,Male,Graduate,4.8,Facebook,Yes,6.8,6.0,Negative
+20,Female,Undergraduate,4.1,Instagram,No,7.7,7.0,Positive
+22,Male,Graduate,3.3,Facebook,No,8.2,8.0,Positive
+19,Female,Undergraduate,2.8,LINE,No,8.8,8.0,Neutral
+21,Male,Graduate,5.0,Instagram,Yes,7.1,5.0,Negative
+20,Female,Undergraduate,4.3,KakaoTalk,Yes,7.5,6.0,Negative
+22,Male,Graduate,3.8,VKontakte,No,8.2,7.0,Positive
+19,Female,Undergraduate,7.0,TikTok,Yes,5.1,4.0,Negative
+21,Male,Graduate,4.7,Instagram,Yes,6.9,6.0,Negative
+20,Female,Undergraduate,4.0,Facebook,No,7.8,7.0,Positive
+22,Male,Graduate,3.2,Instagram,No,8.3,8.0,Positive
+19,Female,Undergraduate,2.7,LINE,No,8.9,8.0,Neutral
+21,Male,Graduate,4.9,TikTok,Yes,7.2,5.0,Negative
+20,Female,Undergraduate,4.2,KakaoTalk,Yes,7.6,6.0,Negative
+22,Male,Graduate,3.7,VKontakte,No,8.3,7.0,Positive
+19,Female,Undergraduate,7.1,Instagram,Yes,5.0,4.0,Negative
+21,Male,Graduate,4.6,Facebook,Yes,7.0,6.0,Negative
+20,Female,Undergraduate,3.9,Instagram,No,7.9,7.0,Positive
+22,Male,Graduate,3.1,Facebook,No,8.4,8.0,Positive
+19,Female,Undergraduate,5.2,Instagram,Yes,6.8,6.0,Negative
+21,Male,Graduate,4.1,Facebook,No,7.8,8.0,Positive
+20,Female,Undergraduate,5.0,Instagram,Yes,7.0,7.0,Negative
+22,Male,Graduate,5.8,WhatsApp,Yes,6.5,5.0,Negative
+19,Female,Undergraduate,4.0,Instagram,No,7.9,8.0,Positive
+21,Male,Graduate,5.5,Instagram,Yes,6.7,6.0,Negative
+20,Female,Undergraduate,6.8,TikTok,Yes,5.5,5.0,Negative
+22,Male,Graduate,5.6,WhatsApp,Yes,6.6,6.0,Negative
+19,Female,Undergraduate,4.5,Instagram,No,7.5,7.0,Positive
+21,Male,Graduate,5.3,Instagram,Yes,6.9,6.0,Negative
+20,Female,Undergraduate,5.1,TikTok,Yes,6.7,6.0,Negative
+22,Male,Graduate,3.9,Facebook,No,7.9,8.0,Positive
+19,Female,Undergraduate,4.8,Instagram,Yes,7.1,7.0,Negative
+21,Male,Graduate,5.9,WhatsApp,Yes,6.4,5.0,Negative
+20,Female,Undergraduate,3.8,Instagram,No,8.0,8.0,Positive
+22,Male,Graduate,5.4,TikTok,Yes,6.8,6.0,Negative
+19,Female,Undergraduate,6.9,Instagram,Yes,5.4,5.0,Negative
+21,Male,Graduate,5.7,WhatsApp,Yes,6.5,6.0,Negative
+20,Female,Undergraduate,4.4,Instagram,No,7.6,7.0,Positive
+22,Male,Graduate,5.2,TikTok,Yes,7.0,6.0,Negative
+19,Female,Undergraduate,5.0,Instagram,Yes,6.9,6.0,Negative
+21,Male,Graduate,3.8,Facebook,No,8.0,8.0,Positive
+20,Female,Undergraduate,4.7,TikTok,Yes,7.2,7.0,Negative
+22,Male,Graduate,6.0,WhatsApp,Yes,6.3,5.0,Negative
+19,Female,Undergraduate,3.7,Instagram,No,8.1,8.0,Positive
+21,Male,Graduate,5.3,Instagram,Yes,6.9,6.0,Negative
+20,Female,Undergraduate,7.0,TikTok,Yes,5.3,5.0,Negative
+22,Male,Graduate,5.8,WhatsApp,Yes,6.4,6.0,Negative
+19,Female,Undergraduate,4.3,Instagram,No,7.7,7.0,Positive
+21,Male,Graduate,5.1,Instagram,Yes,7.1,6.0,Negative
+20,Female,Undergraduate,4.9,TikTok,Yes,7.0,6.0,Negative
+22,Male,Graduate,3.7,Facebook,No,8.1,8.0,Positive
+19,Female,Undergraduate,4.6,Instagram,Yes,7.3,7.0,Negative
+21,Male,Graduate,6.1,WhatsApp,Yes,6.2,5.0,Negative
+20,Female,Undergraduate,3.6,Instagram,No,8.2,8.0,Positive
+22,Male,Graduate,5.2,TikTok,Yes,7.0,6.0,Negative
+19,Female,Undergraduate,7.1,Instagram,Yes,5.2,5.0,Negative
+21,Male,Graduate,5.9,WhatsApp,Yes,6.3,6.0,Negative
+20,Female,Undergraduate,4.2,Instagram,No,7.8,7.0,Positive
+22,Male,Graduate,5.0,TikTok,Yes,7.2,6.0,Negative
+19,Female,Undergraduate,4.8,Instagram,Yes,7.1,6.0,Negative
+21,Male,Graduate,3.6,Facebook,No,8.2,8.0,Positive
+20,Female,Undergraduate,4.5,TikTok,Yes,7.4,7.0,Negative
+22,Male,Graduate,6.2,WhatsApp,Yes,6.1,5.0,Negative
+19,Female,Undergraduate,3.5,Instagram,No,8.3,8.0,Positive
+21,Male,Graduate,5.1,Instagram,Yes,7.1,6.0,Negative
+20,Female,Undergraduate,7.2,TikTok,Yes,5.1,5.0,Negative
+22,Male,Graduate,6.0,WhatsApp,Yes,6.2,6.0,Negative
+19,Female,Undergraduate,4.1,Instagram,No,7.9,7.0,Positive
+21,Male,Graduate,4.9,Instagram,Yes,7.3,6.0,Negative
+20,Female,Undergraduate,4.7,TikTok,Yes,7.2,6.0,Negative
+22,Male,Graduate,3.5,Facebook,No,8.3,8.0,Positive
+19,Female,Undergraduate,4.4,Instagram,Yes,7.5,7.0,Negative
+21,Male,Graduate,6.3,WhatsApp,Yes,6.0,5.0,Negative
+20,Female,Undergraduate,3.4,Instagram,No,8.4,8.0,Positive
+22,Male,Graduate,5.0,TikTok,Yes,7.2,6.0,Negative
+19,Female,Undergraduate,7.3,Instagram,Yes,5.0,5.0,Negative
+21,Male,Graduate,6.1,WhatsApp,Yes,6.1,6.0,Negative
+20,Female,Undergraduate,4.0,Instagram,No,8.0,7.0,Positive
+22,Male,Graduate,4.8,TikTok,Yes,7.4,6.0,Negative
+19,Female,Undergraduate,4.6,Instagram,Yes,7.3,6.0,Negative
+21,Male,Graduate,3.4,Facebook,No,8.4,8.0,Positive
+20,Female,Undergraduate,4.3,TikTok,Yes,7.6,7.0,Negative
+22,Male,Graduate,6.4,WhatsApp,Yes,5.9,5.0,Negative
+19,Female,Undergraduate,3.3,Instagram,No,8.5,8.0,Positive
+21,Male,Graduate,4.9,Instagram,Yes,7.3,6.0,Negative
+20,Female,Undergraduate,7.4,TikTok,Yes,4.9,5.0,Negative
+22,Male,Graduate,6.2,WhatsApp,Yes,6.0,6.0,Negative
+19,Female,Undergraduate,3.9,Instagram,No,8.1,7.0,Positive
+21,Male,Graduate,4.7,Instagram,Yes,7.5,6.0,Negative
+20,Female,Undergraduate,4.5,TikTok,Yes,7.4,6.0,Negative
+22,Male,Graduate,3.3,Facebook,No,8.5,8.0,Positive
+19,Female,Undergraduate,4.2,Instagram,Yes,7.7,7.0,Negative
+21,Male,Graduate,6.5,WhatsApp,Yes,5.8,5.0,Negative
+20,Female,Undergraduate,3.2,Instagram,No,8.6,8.0,Positive
+22,Male,Graduate,4.8,TikTok,Yes,7.4,6.0,Negative
+19,Female,Undergraduate,7.5,Instagram,Yes,4.8,5.0,Negative
+21,Male,Graduate,6.3,WhatsApp,Yes,5.9,6.0,Negative
+20,Female,Undergraduate,3.8,Instagram,No,8.2,7.0,Positive
+22,Male,Graduate,4.6,TikTok,Yes,7.6,6.0,Negative
+19,Female,Undergraduate,4.4,Instagram,Yes,7.5,6.0,Negative
+21,Male,Graduate,3.2,Facebook,No,8.6,8.0,Positive
+20,Female,Undergraduate,4.1,TikTok,Yes,7.8,7.0,Negative
+22,Male,Graduate,6.6,WhatsApp,Yes,5.7,5.0,Negative
+19,Female,Undergraduate,3.1,Instagram,No,8.7,8.0,Positive
+21,Male,Graduate,4.7,Instagram,Yes,7.5,6.0,Negative
+20,Female,Undergraduate,7.6,TikTok,Yes,4.7,5.0,Negative
+22,Male,Graduate,6.4,WhatsApp,Yes,5.8,6.0,Negative
+19,Female,Undergraduate,3.7,Instagram,No,8.3,7.0,Positive
+21,Male,Graduate,4.5,Instagram,Yes,7.7,6.0,Negative
+20,Female,Undergraduate,4.3,TikTok,Yes,7.6,6.0,Negative
+22,Male,Graduate,3.1,Facebook,No,8.7,8.0,Positive
+19,Female,Undergraduate,4.0,Instagram,Yes,7.9,7.0,Negative
+21,Male,Graduate,6.7,WhatsApp,Yes,5.6,5.0,Negative
+20,Female,Undergraduate,3.0,Instagram,No,8.8,8.0,Positive
+22,Male,Graduate,4.6,TikTok,Yes,7.6,6.0,Negative
+19,Female,Undergraduate,7.7,Instagram,Yes,4.6,5.0,Negative
+21,Male,Graduate,6.5,WhatsApp,Yes,5.7,6.0,Negative
+20,Female,Undergraduate,3.6,Instagram,No,8.4,7.0,Positive
+22,Male,Graduate,4.4,TikTok,Yes,7.8,6.0,Negative
+19,Female,Undergraduate,4.2,Instagram,Yes,7.7,6.0,Negative
+21,Male,Graduate,3.0,Facebook,No,8.8,8.0,Positive
+20,Female,Undergraduate,3.9,TikTok,Yes,8.0,7.0,Negative
+22,Male,Graduate,6.8,WhatsApp,Yes,5.5,5.0,Negative
+19,Female,Undergraduate,2.9,Instagram,No,8.9,8.0,Positive
+21,Male,Graduate,4.5,Instagram,Yes,7.7,6.0,Negative
+20,Female,Undergraduate,7.8,TikTok,Yes,4.5,5.0,Negative
+22,Male,Graduate,6.6,WhatsApp,Yes,5.6,6.0,Negative
+19,Female,Undergraduate,3.5,Instagram,No,8.5,7.0,Positive
+21,Male,Graduate,4.3,Instagram,Yes,7.9,6.0,Negative
+20,Female,Undergraduate,4.1,TikTok,Yes,7.8,6.0,Negative
+22,Male,Graduate,2.9,Facebook,No,8.9,8.0,Positive
+19,Female,Undergraduate,3.8,Instagram,Yes,8.1,7.0,Negative
+21,Male,Graduate,6.9,WhatsApp,Yes,5.4,5.0,Negative
+20,Female,Undergraduate,2.8,Instagram,No,9.0,8.0,Positive
+22,Male,Graduate,4.4,TikTok,Yes,7.8,6.0,Negative
+19,Female,Undergraduate,7.9,Instagram,Yes,4.4,5.0,Negative
+21,Male,Graduate,6.7,WhatsApp,Yes,5.5,6.0,Negative
+20,Female,Undergraduate,3.4,Instagram,No,8.6,7.0,Positive
+22,Male,Graduate,4.2,TikTok,Yes,8.0,6.0,Negative
+19,Female,Undergraduate,4.0,Instagram,Yes,7.9,6.0,Negative
+21,Male,Graduate,2.8,Facebook,No,9.0,8.0,Positive
+20,Female,Undergraduate,3.7,TikTok,Yes,8.2,7.0,Negative
+22,Male,Graduate,7.0,WhatsApp,Yes,5.3,5.0,Negative
+19,Female,Undergraduate,2.7,Instagram,No,9.1,8.0,Positive
+21,Male,Graduate,4.3,Instagram,Yes,7.9,6.0,Negative
+20,Female,Undergraduate,8.0,TikTok,Yes,4.3,5.0,Negative
+22,Male,Graduate,6.8,WhatsApp,Yes,5.4,6.0,Negative
+19,Female,Undergraduate,3.3,Instagram,No,8.7,7.0,Positive
+21,Male,Graduate,4.1,Instagram,Yes,8.1,6.0,Negative
+20,Female,Undergraduate,3.9,TikTok,Yes,8.0,6.0,Negative
+22,Male,Graduate,2.7,Facebook,No,9.1,8.0,Positive
+19,Female,Undergraduate,3.6,Instagram,Yes,8.3,7.0,Negative
+21,Male,Graduate,7.1,WhatsApp,Yes,5.2,5.0,Negative
+20,Female,Undergraduate,2.6,Instagram,No,9.2,8.0,Positive
+22,Male,Graduate,4.2,TikTok,Yes,8.0,6.0,Negative
+19,Female,Undergraduate,8.1,Instagram,Yes,4.2,5.0,Negative
+21,Male,Graduate,6.9,WhatsApp,Yes,5.3,6.0,Negative
+20,Female,Undergraduate,3.2,Instagram,No,8.8,7.0,Positive
+22,Male,Graduate,4.0,TikTok,Yes,8.2,6.0,Negative
+19,Female,Undergraduate,3.8,Instagram,Yes,8.1,6.0,Negative
+21,Male,Graduate,2.6,Facebook,No,9.2,8.0,Positive
+20,Female,Undergraduate,3.5,TikTok,Yes,8.4,7.0,Negative
+22,Male,Graduate,7.2,WhatsApp,Yes,5.1,5.0,Negative
+19,Female,Undergraduate,2.5,Instagram,No,9.3,8.0,Positive
+21,Male,Graduate,4.1,Instagram,Yes,8.1,6.0,Negative
+20,Female,Undergraduate,8.2,TikTok,Yes,4.1,5.0,Negative
+22,Male,Graduate,7.0,WhatsApp,Yes,5.2,6.0,Negative
+19,Female,Undergraduate,3.1,Instagram,No,8.9,7.0,Positive
+21,Male,Graduate,3.9,Instagram,Yes,8.3,6.0,Negative
+20,Female,Undergraduate,3.7,TikTok,Yes,8.2,6.0,Negative
+22,Male,Graduate,2.5,Facebook,No,9.3,8.0,Positive
+19,Female,Undergraduate,3.4,Instagram,Yes,8.5,7.0,Negative
+21,Male,Graduate,7.3,WhatsApp,Yes,5.0,5.0,Negative
+20,Female,Undergraduate,2.4,Instagram,No,9.4,8.0,Positive
+22,Male,Graduate,4.0,TikTok,Yes,8.2,6.0,Negative
+19,Female,Undergraduate,8.3,Instagram,Yes,4.0,5.0,Negative
+21,Male,Graduate,7.1,WhatsApp,Yes,5.1,6.0,Negative
+20,Female,Undergraduate,3.0,Instagram,No,9.0,7.0,Positive
+22,Male,Graduate,3.8,TikTok,Yes,8.4,6.0,Negative
+19,Female,Undergraduate,3.6,Instagram,Yes,8.3,6.0,Negative
+21,Male,Graduate,2.4,Facebook,No,9.4,8.0,Positive
+20,Female,Undergraduate,3.3,TikTok,Yes,8.6,7.0,Negative
+22,Male,Graduate,7.4,WhatsApp,Yes,4.9,5.0,Negative
+19,Female,Undergraduate,2.3,Instagram,No,9.5,8.0,Positive
+21,Male,Graduate,3.9,Instagram,Yes,8.3,6.0,Negative
+20,Female,Undergraduate,8.4,TikTok,Yes,3.9,5.0,Negative
+22,Male,Graduate,7.2,WhatsApp,Yes,5.0,6.0,Negative
+19,Female,Undergraduate,2.9,Instagram,No,9.1,7.0,Positive
+21,Male,Graduate,3.7,Instagram,Yes,8.5,6.0,Negative
+20,Female,Undergraduate,3.5,TikTok,Yes,8.4,6.0,Negative
+22,Male,Graduate,2.3,Facebook,No,9.5,8.0,Positive
+19,Female,Undergraduate,3.2,Instagram,Yes,8.7,7.0,Negative
+21,Male,Graduate,7.5,WhatsApp,Yes,4.8,5.0,Negative
+20,Female,Undergraduate,2.2,Instagram,No,9.6,8.0,Positive
+22,Male,Graduate,3.8,TikTok,Yes,8.4,6.0,Negative
+19,Female,Undergraduate,8.5,Instagram,Yes,3.8,5.0,Negative
+21,Male,Graduate,7.3,WhatsApp,Yes,4.9,6.0,Negative
+20,Female,Undergraduate,2.8,Instagram,No,9.2,7.0,Positive
+22,Male,Graduate,3.6,TikTok,Yes,8.6,6.0,Negative
+19,Female,Undergraduate,6.2,WhatsApp,Yes,6.3,6.0,Negative
+21,Male,Graduate,4.5,WeChat,No,7.8,7.0,Positive
+20,Female,Undergraduate,3.8,Instagram,No,8.2,8.0,Positive
+22,Male,Graduate,4.7,Instagram,Yes,7.5,7.0,Negative
+19,Female,Undergraduate,5.1,TikTok,Yes,7.0,6.0,Negative
+21,Male,Graduate,5.5,WhatsApp,Yes,6.8,6.0,Negative
+20,Female,Undergraduate,6.5,Instagram,Yes,6.5,5.0,Negative
+22,Male,Graduate,4.2,Facebook,No,7.9,7.0,Positive
+19,Female,Undergraduate,6.8,WhatsApp,Yes,6.0,5.0,Negative
+21,Male,Graduate,4.8,Instagram,Yes,7.4,7.0,Negative
+20,Female,Undergraduate,6.1,Instagram,Yes,6.4,6.0,Negative
+22,Male,Graduate,4.4,WeChat,No,7.9,7.0,Positive
+19,Female,Undergraduate,3.7,TikTok,No,8.3,8.0,Positive
+21,Male,Graduate,4.6,Instagram,Yes,7.6,7.0,Negative
+20,Female,Undergraduate,5.2,TikTok,Yes,6.9,6.0,Negative
+22,Male,Graduate,5.6,WhatsApp,Yes,6.7,6.0,Negative
+19,Female,Undergraduate,6.6,Instagram,Yes,6.4,5.0,Negative
+21,Male,Graduate,4.1,Facebook,No,8.0,7.0,Positive
+20,Female,Undergraduate,6.9,WhatsApp,Yes,5.9,5.0,Negative
+22,Male,Graduate,4.7,TikTok,Yes,7.5,7.0,Negative
+19,Female,Undergraduate,6.0,WhatsApp,Yes,6.5,6.0,Negative
+21,Male,Graduate,4.3,WeChat,No,8.0,7.0,Positive
+20,Female,Undergraduate,3.6,Instagram,No,8.4,8.0,Positive
+22,Male,Graduate,4.5,Facebook,Yes,7.7,7.0,Negative
+19,Female,Undergraduate,5.3,TikTok,Yes,6.8,6.0,Negative
+21,Male,Graduate,5.7,WhatsApp,Yes,6.6,6.0,Negative
+20,Female,Undergraduate,6.7,Instagram,Yes,6.3,5.0,Negative
+22,Male,Graduate,4.0,Facebook,No,8.1,7.0,Positive
+19,Female,Undergraduate,7.0,WhatsApp,Yes,5.8,5.0,Negative
+21,Male,Graduate,4.6,Instagram,Yes,7.6,7.0,Negative
+20,Female,Undergraduate,5.9,TikTok,Yes,6.6,6.0,Negative
+22,Male,Graduate,4.2,WeChat,No,8.1,7.0,Positive
+19,Female,Undergraduate,3.5,Instagram,No,8.5,8.0,Positive
+21,Male,Graduate,4.4,Facebook,Yes,7.8,7.0,Negative
+20,Female,Undergraduate,5.4,TikTok,Yes,6.7,6.0,Negative
+22,Male,Graduate,5.8,WhatsApp,Yes,6.5,6.0,Negative
+19,Female,Undergraduate,6.8,Instagram,Yes,6.2,5.0,Negative
+21,Male,Graduate,3.9,Facebook,No,8.2,7.0,Positive
+20,Female,Undergraduate,7.1,WhatsApp,Yes,5.7,5.0,Negative
+22,Male,Graduate,4.5,TikTok,Yes,7.7,7.0,Negative
+19,Female,Undergraduate,5.8,WhatsApp,Yes,6.7,6.0,Negative
+21,Male,Graduate,4.1,WeChat,No,8.2,7.0,Positive
+20,Female,Undergraduate,3.4,Instagram,No,8.6,8.0,Positive
+22,Male,Graduate,4.3,Instagram,Yes,7.9,7.0,Negative
+19,Female,Undergraduate,5.5,TikTok,Yes,6.6,6.0,Negative
+21,Male,Graduate,5.9,WhatsApp,Yes,6.4,6.0,Negative
+20,Female,Undergraduate,6.9,Instagram,Yes,6.1,5.0,Negative
+22,Male,Graduate,3.8,Facebook,No,8.3,7.0,Positive
+19,Female,Undergraduate,7.2,WhatsApp,Yes,5.6,5.0,Negative
+21,Male,Graduate,4.4,Instagram,Yes,7.8,7.0,Negative
+20,Female,Undergraduate,5.7,TikTok,Yes,6.8,6.0,Negative
+22,Male,Graduate,4.0,WeChat,No,8.3,7.0,Positive
+19,Female,Undergraduate,3.3,Instagram,No,8.7,8.0,Positive
+21,Male,Graduate,4.2,Facebook,Yes,8.0,7.0,Negative
+20,Female,Undergraduate,5.6,TikTok,Yes,6.5,6.0,Negative
+22,Male,Graduate,6.0,WhatsApp,Yes,6.3,6.0,Negative
+19,Female,Undergraduate,7.0,Instagram,Yes,6.0,5.0,Negative
+21,Male,Graduate,3.7,Facebook,No,8.4,7.0,Positive
+20,Female,Undergraduate,7.3,WhatsApp,Yes,5.5,5.0,Negative
+22,Male,Graduate,4.3,TikTok,Yes,7.9,7.0,Negative
+19,Female,Undergraduate,5.6,WhatsApp,Yes,6.9,6.0,Negative
+21,Male,Graduate,3.9,WeChat,No,8.4,7.0,Positive
+20,Female,Undergraduate,3.2,Instagram,No,8.8,8.0,Positive
+22,Male,Graduate,4.1,Instagram,Yes,8.1,7.0,Negative
+19,Female,Undergraduate,5.7,TikTok,Yes,6.4,6.0,Negative
+21,Male,Graduate,6.1,WhatsApp,Yes,6.2,6.0,Negative
+20,Female,Undergraduate,7.1,Instagram,Yes,5.9,5.0,Negative
+22,Male,Graduate,3.6,Facebook,No,8.5,7.0,Positive
+19,Female,Undergraduate,7.4,WhatsApp,Yes,5.4,5.0,Negative
+21,Male,Graduate,4.2,Instagram,Yes,8.0,7.0,Negative
+20,Female,Undergraduate,6.1,Instagram,Yes,7.2,5.0,Negative
+23,Male,Graduate,3.8,Twitter,No,7.8,8.0,Positive
+19,Female,Undergraduate,5.5,TikTok,Yes,6.8,6.0,Negative
+22,Male,Graduate,7.2,Facebook,Yes,5.9,4.0,Negative
+21,Female,Undergraduate,4.2,Instagram,No,7.5,7.0,Positive
+24,Male,Graduate,6.8,TikTok,Yes,6.2,5.0,Negative
+20,Female,Undergraduate,5.9,Instagram,Yes,6.7,6.0,Negative
+22,Male,Graduate,6.5,Facebook,Yes,6.1,5.0,Negative
+19,Female,Undergraduate,4.7,Twitter,No,7.4,7.0,Positive
+23,Male,Graduate,5.2,Instagram,Yes,7.0,6.0,Negative
+21,Female,Undergraduate,6.3,TikTok,Yes,6.4,5.0,Negative
+24,Male,Graduate,4.9,Facebook,No,7.3,7.0,Positive
+20,Female,Undergraduate,6.7,Instagram,Yes,6.0,5.0,Negative
+22,Male,Graduate,5.8,WeChat,Yes,6.5,6.0,Negative
+19,Female,Undergraduate,4.5,Twitter,No,7.6,8.0,Positive
+23,Male,Graduate,6.4,Facebook,Yes,6.3,5.0,Negative
+21,Female,Undergraduate,4.1,Instagram,No,7.7,7.0,Positive
+24,Male,Graduate,6.6,TikTok,Yes,6.2,5.0,Negative
+20,Female,Undergraduate,4.4,Instagram,No,7.4,7.0,Positive
+22,Male,Graduate,5.7,Twitter,Yes,6.8,6.0,Negative
+19,Female,Undergraduate,7.0,Instagram,Yes,5.8,4.0,Negative
+23,Male,Graduate,4.3,Facebook,No,7.5,7.0,Positive
+21,Female,Undergraduate,6.9,TikTok,Yes,6.1,5.0,Negative
+24,Male,Graduate,5.6,Instagram,Yes,6.9,6.0,Negative
+20,Female,Undergraduate,6.2,Facebook,Yes,6.3,5.0,Negative
+21,Male,Undergraduate,5.8,Instagram,Yes,6.7,6.0,Negative
+23,Female,Graduate,4.9,TikTok,No,7.3,7.0,Positive
+20,Male,Undergraduate,6.4,Facebook,Yes,6.2,5.0,Negative
+22,Female,Graduate,5.1,Twitter,No,7.1,7.0,Positive
+19,Male,Undergraduate,6.7,Instagram,Yes,6.0,4.0,Negative
+24,Female,Graduate,5.5,WeChat,Yes,6.8,6.0,Negative
+21,Male,Undergraduate,4.3,Twitter,No,7.6,8.0,Positive
+23,Female,Graduate,6.2,Instagram,Yes,6.4,5.0,Negative
+20,Male,Undergraduate,4.5,Facebook,No,7.4,7.0,Positive
+22,Female,Graduate,6.3,TikTok,Yes,6.3,5.0,Negative
+19,Male,Undergraduate,4.7,Instagram,No,7.2,7.0,Positive
+24,Female,Graduate,5.9,Twitter,Yes,6.6,6.0,Negative
+21,Male,Undergraduate,7.1,Facebook,Yes,5.7,4.0,Negative
+23,Female,Graduate,4.4,Instagram,No,7.4,7.0,Positive
+20,Male,Undergraduate,6.6,TikTok,Yes,6.2,5.0,Negative
+22,Female,Graduate,5.4,Instagram,Yes,6.9,6.0,Negative
+19,Male,Undergraduate,6.5,Facebook,Yes,6.1,5.0,Negative
+24,Female,Graduate,4.8,Twitter,No,7.3,7.0,Positive
+21,Male,Undergraduate,5.7,Instagram,Yes,6.7,6.0,Negative
+23,Female,Graduate,6.1,TikTok,Yes,6.4,5.0,Negative
+20,Male,Undergraduate,4.6,Facebook,No,7.2,7.0,Positive
+22,Female,Graduate,6.8,Instagram,Yes,5.9,4.0,Negative
+19,Male,Undergraduate,5.6,WeChat,Yes,6.8,6.0,Negative
+24,Female,Graduate,4.2,Twitter,No,7.5,8.0,Positive
+21,Male,Undergraduate,6.3,TikTok,Yes,6.3,5.0,Negative
+23,Female,Graduate,4.4,Instagram,No,7.4,7.0,Positive
+20,Male,Undergraduate,6.5,Facebook,Yes,6.2,5.0,Negative
+22,Female,Graduate,4.6,Twitter,No,7.3,7.0,Positive
+19,Male,Undergraduate,5.8,Instagram,Yes,6.6,6.0,Negative
+24,Female,Graduate,7.0,TikTok,Yes,5.8,4.0,Negative
+21,Male,Undergraduate,4.5,Facebook,No,7.3,7.0,Positive
+23,Female,Graduate,6.7,Instagram,Yes,6.1,5.0,Negative
+20,Male,Undergraduate,5.5,Twitter,Yes,6.8,6.0,Negative
+22,Female,Graduate,6.4,Facebook,Yes,6.2,5.0,Negative
+19,Male,Undergraduate,4.7,Instagram,No,7.2,7.0,Positive
+24,Female,Graduate,5.6,TikTok,Yes,6.7,6.0,Negative
+21,Male,Undergraduate,6.2,Facebook,Yes,6.3,5.0,Negative
+23,Female,Graduate,4.8,Twitter,No,7.1,7.0,Positive
+20,Male,Undergraduate,6.9,Instagram,Yes,5.9,4.0,Negative
+22,Female,Graduate,5.7,WeChat,Yes,6.7,6.0,Negative
+19,Male,Undergraduate,4.4,Twitter,No,7.4,8.0,Positive
+24,Female,Graduate,6.1,TikTok,Yes,6.4,5.0,Negative
+21,Male,Undergraduate,4.3,Instagram,No,7.5,7.0,Positive
+23,Female,Graduate,6.4,Facebook,Yes,6.2,5.0,Negative
+20,Male,Undergraduate,4.5,Twitter,No,7.3,7.0,Positive
+22,Female,Graduate,5.9,Instagram,Yes,6.5,6.0,Negative
+19,Male,Undergraduate,7.2,TikTok,Yes,5.7,4.0,Negative
+24,Female,Graduate,4.6,Facebook,No,7.2,7.0,Positive
+21,Male,Undergraduate,6.8,Instagram,Yes,6.0,5.0,Negative
+23,Female,Graduate,5.3,Twitter,Yes,6.8,6.0,Negative
+22,Male,Graduate,6.3,Facebook,Yes,6.2,5.0,Negative
+20,Female,Undergraduate,4.8,Instagram,No,7.1,7.0,Positive
+23,Male,Graduate,5.7,TikTok,Yes,6.6,6.0,Negative
+21,Female,Undergraduate,6.2,Twitter,Yes,6.3,5.0,Negative
+24,Male,Graduate,4.7,Facebook,No,7.2,7.0,Positive
+19,Female,Undergraduate,6.8,Instagram,Yes,5.9,4.0,Negative
+22,Male,Graduate,5.6,WeChat,Yes,6.7,6.0,Negative
+20,Female,Undergraduate,4.3,Twitter,No,7.5,8.0,Positive
+23,Male,Graduate,6.2,TikTok,Yes,6.3,5.0,Negative
+21,Female,Undergraduate,4.4,Instagram,No,7.4,7.0,Positive
+24,Male,Graduate,6.5,Facebook,Yes,6.1,5.0,Negative
+19,Female,Undergraduate,4.6,Twitter,No,7.3,7.0,Positive
+22,Male,Graduate,5.8,Instagram,Yes,6.6,6.0,Negative
+20,Female,Undergraduate,7.1,TikTok,Yes,5.8,4.0,Negative
+23,Male,Graduate,4.5,Facebook,No,7.3,7.0,Positive
+21,Female,Undergraduate,6.7,Instagram,Yes,6.0,5.0,Negative
+24,Male,Graduate,5.4,Twitter,Yes,6.8,6.0,Negative
+19,Female,Undergraduate,6.4,TikTok,Yes,6.2,5.0,Negative
+22,Male,Graduate,4.7,Facebook,No,7.2,7.0,Positive
+20,Female,Undergraduate,5.6,Instagram,Yes,6.7,6.0,Negative
+23,Male,Graduate,6.3,Twitter,Yes,6.2,5.0,Negative
+21,Female,Undergraduate,4.8,TikTok,No,7.1,7.0,Positive
+24,Male,Graduate,6.9,Instagram,Yes,5.9,4.0,Negative
+19,Female,Undergraduate,5.7,WeChat,Yes,6.7,6.0,Negative
+22,Male,Graduate,4.4,Twitter,No,7.4,8.0,Positive
+20,Female,Undergraduate,6.1,Facebook,Yes,6.4,5.0,Negative
+23,Male,Graduate,4.3,Instagram,No,7.5,7.0,Positive
+21,Female,Undergraduate,6.4,TikTok,Yes,6.2,5.0,Negative
+24,Male,Graduate,4.5,Twitter,No,7.3,7.0,Positive
+19,Female,Undergraduate,5.9,Instagram,Yes,6.5,6.0,Negative
+22,Male,Graduate,7.2,Facebook,Yes,5.7,4.0,Negative
+20,Female,Undergraduate,4.6,TikTok,No,7.2,7.0,Positive
+23,Male,Graduate,6.8,Instagram,Yes,6.0,5.0,Negative
+21,Female,Undergraduate,5.3,Twitter,Yes,6.8,6.0,Negative
+24,Male,Graduate,6.2,Facebook,Yes,6.3,5.0,Negative
+19,Female,Undergraduate,4.7,Instagram,No,7.2,7.0,Positive
+22,Male,Graduate,5.8,TikTok,Yes,6.6,6.0,Negative
+20,Female,Undergraduate,6.1,Twitter,Yes,6.4,5.0,Negative
+23,Male,Graduate,4.8,Facebook,No,7.1,7.0,Positive
+21,Female,Undergraduate,6.7,Instagram,Yes,6.0,4.0,Negative
+24,Male,Graduate,5.5,WeChat,Yes,6.8,6.0,Negative
+19,Female,Undergraduate,4.2,Twitter,No,7.5,8.0,Positive
+22,Male,Graduate,6.3,TikTok,Yes,6.2,5.0,Negative
+20,Female,Undergraduate,4.4,Instagram,No,7.4,7.0,Positive
+23,Male,Graduate,6.5,Facebook,Yes,6.1,5.0,Negative
+21,Female,Undergraduate,4.6,Twitter,No,7.3,7.0,Positive
+24,Male,Graduate,5.9,Instagram,Yes,6.5,6.0,Negative
+19,Female,Undergraduate,7.0,TikTok,Yes,5.8,4.0,Negative
+22,Male,Graduate,4.5,Facebook,No,7.3,7.0,Positive
+20,Female,Undergraduate,6.6,Instagram,Yes,6.1,5.0,Negative
+23,Male,Graduate,5.5,Twitter,Yes,6.7,6.0,Negative
+21,Female,Undergraduate,6.3,TikTok,Yes,6.2,5.0,Negative
+24,Male,Graduate,4.8,Facebook,No,7.1,7.0,Positive
+19,Female,Undergraduate,5.7,Instagram,Yes,6.6,6.0,Negative
+22,Male,Graduate,6.2,Twitter,Yes,6.3,5.0,Negative
+20,Female,Undergraduate,4.7,TikTok,No,7.2,7.0,Positive
+23,Male,Graduate,6.8,Instagram,Yes,5.9,4.0,Negative
+21,Female,Undergraduate,5.6,WeChat,Yes,6.7,6.0,Negative
+24,Male,Graduate,4.3,Twitter,No,7.5,8.0,Positive
+19,Female,Undergraduate,6.2,Facebook,Yes,6.3,5.0,Negative
