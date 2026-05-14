@@ -149,7 +149,7 @@ A probability-based classification algorithm based on Bayes’ Theorem.
 
 - Notebook Link: [Naive Bayes](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Supervised%20Learning%20Algorithms/NaiveBayes_GridSearchCV.ipynb)
 ---
-## 3. XGBoost Classifier
+## 7. XGBoost Classifier
 An advanced boosting-based machine learning algorithm that combines multiple decision trees to improve prediction accuracy and reduce errors.
 
 **Accuracy:** 94.12%
