@@ -160,3 +160,19 @@ The performance of all classification algorithms was compared using accuracy sco
 
 ---
 
+# 🤖 Unsupervised Machine Learning
+
+This project demonstrates the implementation of **Unsupervised Machine Learning Algorithms** for discovering hidden patterns and groups in data without using labeled outputs.
+
+## 📌 Algorithms Used
+
+### 🔹 K-Means Clustering
+K-Means is a centroid-based clustering algorithm that divides data into **K clusters** by minimizing the distance between data points and their cluster centroids. It is simple, fast, and widely used for pattern recognition and data segmentation.
+
+- Notebook Link: [EDA Notebook](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Unsupervised%20Learning/K_Means__Clustering.ipynb)
+
+### 🔹 DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+DBSCAN is a density-based clustering algorithm that groups closely packed data points and identifies outliers as noise. It is highly effective for detecting clusters of different shapes and handling noisy datasets.
+
+- Notebook Link: [EDA Notebook](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Unsupervised%20Learning/DBSCAN.ipynb)
+---
