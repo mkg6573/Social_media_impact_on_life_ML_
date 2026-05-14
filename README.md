@@ -129,7 +129,7 @@ A probability-based classification algorithm based on Bayes’ Theorem.
 
 **Accuracy:** 83%
 
-- Notebook Link: [SVM](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Supervised%20Learning%20Algorithms/NaiveBayes_GridSearchCV.ipynb)
+- Notebook Link: [Naive Bayes](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Supervised%20Learning%20Algorithms/NaiveBayes_GridSearchCV.ipynb)
 ---
 
 # ⚙️ Technologies Used
