@@ -75,6 +75,7 @@ EDA helps in understanding the dataset, improving data quality, detecting patter
 Pandas Profiling is an automated EDA tool that generates a detailed report of the dataset, including missing values, correlations, distributions, and statistics.  
 It helps quickly understand the dataset and identify important patterns before machine learning model building.
 
+- Notebook Link: [Profling](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Analysis/Profiling.ipynb)
 
 # Supervised Learning Algorithms 🚀
 
