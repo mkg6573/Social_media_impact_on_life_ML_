@@ -158,6 +158,10 @@ The performance of all classification algorithms was compared using accuracy sco
 | SVM                 | 92.30%   |
 | XGBoost             | 95%   |
 
+
+
+
+The comparison of different machine learning classification models shows that ensemble algorithms performed the best on the dataset. Among all models, Random Forest achieved the highest accuracy of **96.45%**, followed by XGBoost with **95%** accuracy. Decision Tree, KNN, and SVM also produced strong results with accuracy above **92%**. Logistic Regression and Naive Bayes gave comparatively lower performance, making ensemble methods the most effective choice for this prediction task.
 ---
 
 # 🤖 Unsupervised Machine Learning
