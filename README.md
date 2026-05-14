@@ -57,9 +57,9 @@ The target column in this dataset is:-
 
 which represents the overall effect of social media on a student's life (Positive, Negative, or Neutral).
 
-[EDA Notebook](https://github.com/mkg6573/Social_media_impact_on_life_ML_/blob/main/Analysis/EDA.ipynb)
+- Notebook Link: [EDA Notebook](https://github.com/mkg6573/Social_media_impact_on_life_ML_/blob/main/Analysis/EDA.ipynb)
 
-EDA helps improve data quality and prepares the dataset for machine learning model building.
+EDA helps in understanding the dataset, improving data quality, detecting patterns, and preparing the data for machine learning model development.
 ## 🐼 Pandas Profiling
 
 Pandas Profiling is an automated EDA tool that generates a detailed report of the dataset, including missing values, correlations, distributions, and statistics.  
