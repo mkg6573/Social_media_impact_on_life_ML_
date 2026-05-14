@@ -34,6 +34,16 @@
   - Building predictive models  
   - Understanding the role of technology in student life  
 
+---
+# 🌐 Model Deployment
+
+## 🚀 Live Demo
+Click the link below to access the deployed machine learning model:
+
+👉 [Open Deployed App](https://impact-of-social-media-on-health-us.streamlit.app/)
+
+---
+
 # 📊 Exploratory Data Analysis (EDA) Overview
 
 Exploratory Data Analysis (EDA) is the process of analyzing and understanding a dataset before building a machine learning model.  
@@ -65,7 +75,6 @@ EDA helps in understanding the dataset, improving data quality, detecting patter
 Pandas Profiling is an automated EDA tool that generates a detailed report of the dataset, including missing values, correlations, distributions, and statistics.  
 It helps quickly understand the dataset and identify important patterns before machine learning model building.
 
-[Live Link](https://impact-of-social-media-on-health-us.streamlit.app/)
 
 # Supervised Learning Algorithms 🚀
 
