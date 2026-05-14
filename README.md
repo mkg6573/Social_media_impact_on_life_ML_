@@ -66,3 +66,14 @@ Pandas Profiling is an automated EDA tool that generates a detailed report of th
 It helps quickly understand the dataset and identify important patterns before machine learning model building.
 
 [Live Link](https://impact-of-social-media-on-health-us.streamlit.app/)
+
+
+	Model	Accuracy
+2	Random Forest	0.964809
+6	XGBoost	0.958944
+5	SVM	0.923754
+1	Decision Tree	0.920821
+3	KNN	0.912023
+0	Logistic Regression	0.862170
+4	Naive Bayes	0.835777
+
