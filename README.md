@@ -182,7 +182,7 @@ The performance of all classification algorithms was compared using accuracy sco
 | KNN                 | 92.00%   |
 | Naive Bayes         | 83.5%   |
 | SVM                 | 92.30%   |
-| XGBoost             | 96%   |
+| XGBoost             | 96.12%   |
 
 
 
