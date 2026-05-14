@@ -67,13 +67,87 @@ It helps quickly understand the dataset and identify important patterns before m
 
 [Live Link](https://impact-of-social-media-on-health-us.streamlit.app/)
 
+# Supervised Learning Algorithms 🚀
 
-	Model	Accuracy
-2	Random Forest	0.964809
-6	XGBoost	0.958944
-5	SVM	0.923754
-1	Decision Tree	0.920821
-3	KNN	0.912023
-0	Logistic Regression	0.862170
-4	Naive Bayes	0.835777
+This folder contains implementations of different **Supervised Machine Learning Algorithms** applied on the **Social Media Impact on Life Dataset** for prediction and analysis.
+
+---
+
+# 📌 Algorithms Used
+
+## 1. Logistic Regression
+A statistical algorithm used for classification problems. It predicts output using probability.
+
+**Accuracy:** 87.39%
+
+- Notebook Link: [Logistic Regression Notebook](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Supervised%20Learning%20Algorithms/Logistic_Regression.ipynb)
+---
+
+## 2. Decision Tree Classifier
+A tree-based model that splits data into branches based on conditions to make predictions.
+
+**Accuracy:** 92.08% 
+
+- Notebook Link: [Decision Tree Classifier](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Supervised%20Learning%20Algorithms/Decision_Tree.ipynb)
+---
+
+## 3. Random Forest Classifier
+An ensemble learning algorithm that combines multiple decision trees for better accuracy and reduced overfitting.
+
+**Accuracy:** 96.45%
+
+- Notebook Link: [Random Forest](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Supervised%20Learning%20Algorithms/Random_forest.ipynb)
+---
+
+## 4. K-Nearest Neighbors (KNN)
+A distance-based algorithm that classifies data based on nearest neighboring points.
+
+**Accuracy:** 92%
+
+- Notebook Link: [KNN](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Supervised%20Learning%20Algorithms/KNN.ipynb)
+---
+
+## 5. Support Vector Machine (SVM)
+An algorithm that finds the best boundary (hyperplane) to separate classes.
+
+**Accuracy:** 92.3%
+
+- Notebook Link: [SVM](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Supervised%20Learning%20Algorithms/SVM_GridSearchCV.ipynb)
+---
+
+## 6. Naive Bayes
+A probability-based classification algorithm based on Bayes’ Theorem.
+
+**Accuracy:** 83%
+
+- Notebook Link: [SVM](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Supervised%20Learning%20Algorithms/NaiveBayes_GridSearchCV.ipynb)
+---
+
+# ⚙️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Streamlit
+
+---
+
+
+
+# 📈 Model Comparison
+
+The performance of all classification algorithms was compared using accuracy scores.
+
+| Model               | Accuracy |
+| ------------------- | -------- |
+| Logistic Regression | 87.39%   |
+| Decision Tree       | 92.08%   |
+| Random Forest       | 96.45%   |
+| KNN                 | 92.00%   |
+| Naive Bayes         | 83.5%   |
+| SVM                 | 92.30%   |
+| XGBoost             | 98.82%   |
+
+---
 
