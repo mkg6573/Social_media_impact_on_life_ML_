@@ -1,5 +1,20 @@
 # 🧠 Impact of Social Media On Mental Health Using Machine Learning
 
+# ❗ Problem Statement
+
+Social media platforms have become an essential part of modern life, especially among students and young adults. While social media provides communication, entertainment, and learning opportunities, excessive usage can negatively affect mental health by causing stress, anxiety, loneliness, depression, low self-esteem, and reduced concentration.
+
+The major challenge is to analyze and identify the relationship between social media usage patterns and mental health conditions using data analysis and machine learning techniques.
+
+This project aims to:
+- Analyze social media usage behavior
+- Identify patterns affecting mental health
+- Predict mental health impact based on user activity
+- Classify users according to their social media habits
+- Discover hidden clusters of user behavior using clustering algorithms
+
+The objective is to build an intelligent system that can help in understanding the psychological effects of social media and support awareness through data-driven insights.
+
 ## 📌 Dataset Overview
 
 - This dataset analyzes the impact of social media and AI usage on students' daily lives.  
@@ -191,3 +206,22 @@ DBSCAN is a density-based clustering algorithm that groups closely packed data p
 
 - Notebook Link: [EDA Notebook](https://github.com/mkg6573/social_media_impact_on_life_ml_/blob/main/Unsupervised%20Learning/DBSCAN.ipynb)
 ---
+
+
+
+# 🚀 Future Scope
+
+This project can be further improved and expanded in several ways:
+
+- 📱 Develop a real-time mental health monitoring application
+- 🧠 Integrate Deep Learning models for better prediction accuracy
+- 🌐 Collect live social media data using APIs
+- 📊 Add advanced dashboards and interactive visualizations
+- 🤖 Build an AI chatbot for mental health guidance and support
+- 🩺 Integrate healthcare and counseling recommendations
+- 📈 Improve model performance using larger and more diverse datasets
+- 🔍 Perform sentiment analysis on social media posts and comments
+- ☁️ Deploy the project on cloud platforms for real-time accessibility
+- 🔐 Enhance data privacy and security for sensitive user information
+
+The future scope of this project is vast as machine learning and AI can play a major role in identifying mental health risks at an early stage and promoting healthier digital habits.
