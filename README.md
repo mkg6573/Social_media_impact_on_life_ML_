@@ -1,3 +1,5 @@
+#🧠 Impact of Social Media On Mental Health Using Machine Learning
+
 ## 📌 Dataset Overview
 
 - This dataset analyzes the impact of social media and AI usage on students' daily lives.  
